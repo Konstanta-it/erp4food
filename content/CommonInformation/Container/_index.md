@@ -2,7 +2,7 @@
 title: "Тары"
 description: ""
 draft: false
-weight: 4
+weight: 16
 ---
 
 В справочнике **"Тары"** хранится список тар. Для использования тар в системе необходимо установить константу **"Вести учет по таре"**, сделать это можно в настройках склада и доставки
@@ -83,11 +83,11 @@ weight: 4
 - Тип корректировки:
     - Увеличение долга - тара списывается на контрагента
     - Списание долга
-- [Организация](Organization.md)
-- [Подразделение](Department.md)
-- [Холдинг](Holding.md)
-- [Контрагент](Contractor.md)
-- [Точка доставки](DeliveryPoint.md)
+- [Организация](http://konstanta-it.github.io/erp4food/commoninformation/Organization)
+- [Подразделение](http://konstanta-it.github.io/erp4food/commoninformation/Department)
+- [Холдинг](http://konstanta-it.github.io/erp4food/commoninformation/Holding)
+- [Контрагент](http://konstanta-it.github.io/erp4food/commoninformation/Contractor)
+- [Точка доставки](http://konstanta-it.github.io/erp4food/commoninformation/DeliveryPoint)
 
 ![2020-09-04_1305](2020-09-04_1305.png)
 
