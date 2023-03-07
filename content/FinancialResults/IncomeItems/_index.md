@@ -16,10 +16,10 @@ weight: 4
 - Группу статей доходов
 - Тип аналитики, на которую эти доходы будут отнесены
 
-    - [Контрагенты](../CommonInformation/Contractor.md)
-    - [Номенклатура](../CommonInformation/Nomenclature.md)
+    - [Контрагенты](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Номенклатура](https://konstanta-it.github.io/erp4food/CommonInformation/Nomenclature)
     - Пользователи
-    - [Товарная категория](../CommonInformation/РroductCategory.md)
+    - [Товарная категория](https://konstanta-it.github.io/erp4food/CommonInformation/РroductCategory)
     - Транспортные средства
     - Физические лица
 

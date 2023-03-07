@@ -16,12 +16,12 @@ weight: 3
 - Группу статей затрат
 - Тип аналитики, на которую эти затраты будут отнесены
 
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
-    - [Контрагенты](../CommonInformation/Contractor.md)
+    - [Задание на доставку](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar)
+    - [Контрагенты](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
     - Маркетинговое мероприятие
-    - [Номенклатура](../CommonInformation/Nomenclature.md)
+    - [Номенклатура](https://konstanta-it.github.io/erp4food/CommonInformation/Nomenclature)
     - Пользователи
-    - [Товарная категория](../CommonInformation/РroductCategory.md)
+    - [Товарная категория](https://konstanta-it.github.io/erp4food/CommonInformation/РroductCategory)
     - Транспортные средства
     - Физические лица
 

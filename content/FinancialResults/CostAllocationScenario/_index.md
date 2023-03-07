@@ -4,7 +4,7 @@ draft: false
 weight: 5
 --- 
 
-Справочник **"Сценарий распределения затрат"** используется для хранения настроек [распределения затрат](CostAllocation.md).
+Справочник **"Сценарий распределения затрат"** используется для хранения настроек [распределения затрат](https://konstanta-it.github.io/erp4food/FinancialResult/CostAllocation).
 
 Справочник расположен в разделе **"Деньги"** в подсистеме **"Закрытие месяца"**
 
@@ -13,16 +13,16 @@ weight: 5
 Для сценария распределения затрат указываются:
 
 - Наименование - используется для представления объекта в системе
-- [Организация](../CommonInformation/Organization.md)
-- [Направление деятельности](DirectionOfActivity.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Направление деятельности](https://konstanta-it.github.io/erp4food/FinancialResult/DirectionOfActivity)
 - Пояснение - произвольный комментарий
 
-На вкладке **"Затраты"** устанавливается либо признак **"Остаток на конец месяца"**, тогда затраты в документе [**"Распределение затрат"**](CostAllocation.md) будут заполняться на конец месяца, либо заполняется поле **"Остаток затрат на дату"** - элемент справочника **Варианты начала периода**, который отвечает за дату на которую расчитываются затраты
+На вкладке **"Затраты"** устанавливается либо признак **"Остаток на конец месяца"**, тогда затраты в документе [**"Распределение затрат"**](https://konstanta-it.github.io/erp4food/FinancialResult/CostAllocation) будут заполняться на конец месяца, либо заполняется поле **"Остаток затрат на дату"** - элемент справочника **Варианты начала периода**, который отвечает за дату на которую расчитываются затраты
 
 В табличной части вкладки **"Затраты"** могут быть заполнены отборы:
 
-- [Подразделение](../CommonInformation/Department.md) - отвечает за то по каким подразделениям будут выбираться затраты
-- [Статья затрат](ItemsOfExpenditure.md) - отвечает за отбор затрат по указанным статьям
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department) - отвечает за то по каким подразделениям будут выбираться затраты
+- [Статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure) - отвечает за отбор затрат по указанным статьям
 - Аналитика затрат - отвечает за отбор затрат по указанным аналитикам
 - Отбор - позволяет установить дополнительные отборы
 - Сортировка - позволяет задать порядок затрат
@@ -45,31 +45,31 @@ weight: 5
 
     Если база **Фиксированная**, то таблица вручную заполняется данными:
 
-    - [Подразделение](../CommonInformation/Department.md)
-    - [Контрагент](../CommonInformation/Contractor.md)
-    - [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
+    - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+    - [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder)
     - Аналитика
     - Количество
     - Сумма
     - Вес
     
-    Если база **Рассчитываемая**, то либо устанавливается признак **База распределения на месяц документа**, тогда база определяется за весь месяц в который создано [распределение затрат](CostAllocation.md), либо устанавливается период расчета базы
+    Если база **Рассчитываемая**, то либо устанавливается признак **База распределения на месяц документа**, тогда база определяется за весь месяц в который создано [распределение затрат](https://konstanta-it.github.io/erp4food/FinancialResult/CostAllocation), либо устанавливается период расчета базы
 
     В табличной части устанавливаются отборы по которым определяется база (например, если распределяются затраты на доставку нам сторонней транспортной компанией, то базу нужно расчитывать по Перевозчику):
 
-    - Торговый представитель - менеджер [точки доставки](../CommonInformation/DeliveryPoint.md)
+    - Торговый представитель - менеджер [точки доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
     - Менеджер направления - менеджер группы партнеров для планирования
-    - Менеджер клиента - менеджер [контрагента](../CommonInformation/Contractor.md)
-    - [Товарная категория](../CommonInformation/РroductCategory.md)
+    - Менеджер клиента - менеджер [контрагента](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Товарная категория](https://konstanta-it.github.io/erp4food/CommonInformation/РroductCategory)
     - Маркетинговое мероприятие
-    - [Перевозчик](../CommonInformation/Contractor.md)
+    - [Перевозчик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
     - Транспортное средство
     - Водитель
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
-    - [Холдинг](../CommonInformation/Holding.md)
-    - [Контрагент](../CommonInformation/Contractor.md)
-    - [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
-    - [Подразделение](../CommonInformation/Department.md)
+    - [Задание на доставку](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar)
+    - [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+    - [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder)
+    - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
     - Отбор - позволяет установить дополнительные отборы
     - Сортировка - позволяет задать порядок базы
 

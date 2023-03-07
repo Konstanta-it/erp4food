@@ -13,9 +13,9 @@ weight: 4
 - Дата и номер соглашения
 - Наименование
 - Наименование для печати
-- [Контрагент](../../../CommonInformation/Contractor.md)
-- [Регион](../../../CommonInformation/BusinessRegion.md)
-- [Огранизация](../../../CommonInformation/Organization.md)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Регион](https://konstanta-it.github.io/erp4food/CommonInformation/BusinessRegion)
+- [Огранизация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
 - Ответственный
 - Статус: не согласовано, действует, закрыто
 - Дата начала и окончания действия соглашения
@@ -24,7 +24,7 @@ weight: 4
 **Вкладка "Ценовые условия"**
 
 - Валюта
-- [Вид цен](TypesOfPrices.md)
+- [Вид цен](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/TypesOfPrices)
 - Включение НДС (заполняется автоматически при заполнении вида цен)
 - Налогообложение: облагается (с НДС), не облагается (без НДС), облагается НДС у покупателя
 - Цена:
@@ -34,7 +34,7 @@ weight: 4
     - Накладные из заказа, Заказ на дату создания
     - Накладные из заказа, Заказ на дату отгрузки
 
-Цены в [заказах клиента](../FormationOfOrders/CustomerOrder.md), [заказах поставщику](../../../Purchases/OrderToSupplier.md), [реализациях товаров](../FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md) и [поступлениях](../../../Purchases/ReceiptOfProducts.md) определяются в зависимости от момента определения цены:
+Цены в [заказах клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder), [заказах поставщику](https://konstanta-it.github.io/erp4food/Purchases/OrderToSupplier), [реализациях товаров](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts) и [поступлениях](https://konstanta-it.github.io/erp4food/Purchases/ReceiptOfProducts) определяются в зависимости от момента определения цены:
 
 1.  **Цена на дату заказа**
 

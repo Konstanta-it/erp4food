@@ -28,7 +28,7 @@ weight: 5
 
 [![7][7]][7]
 
-Создаем [заказ клиента](../../CustomerOrder.md) с параметрами:
+Создаем [заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder) с параметрами:
 
 - Дата - 22.05.2020
 - Организация - Молочный мир

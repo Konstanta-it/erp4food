@@ -14,10 +14,10 @@ weight: 6
 
 Для поступления дополнительных затрат указываются:
 
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- [Поставщик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Склад](https://konstanta-it.github.io/erp4food/CommonInformation/Warehouse)
 - Дата доставки
 
 На вкладке "Товары" указываются [поступления товаров и услуг](../Purchases/ReceiptOfProducts), сопровождавшиеся дополнительными расходами, и товары, на себестоимость которых будут распределяться расходы на услуги.

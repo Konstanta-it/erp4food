@@ -15,9 +15,9 @@ weight: 8
 - Номер - заполняется автоматически
 - Дата
 - Период за который производится сверка
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
 
 [![2][2]][2]
 

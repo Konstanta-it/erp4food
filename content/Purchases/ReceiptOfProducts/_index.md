@@ -15,13 +15,13 @@ weight: 2
 - Номер - заполняется автоматически
 - Дата
 - Статус: Не принято, Подтверждено, Принято
-- Заказ - заполняется, если *"Поступление товаров"* создается на основании [заказа поставщику](OrderToSupplier.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Заказ - заполняется, если *"Поступление товаров"* создается на основании [заказа поставщику](https://konstanta-it.github.io/erp4food/Purchases/OrderToSupplier)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Поставщик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Склад](https://konstanta-it.github.io/erp4food/CommonInformation/Warehouse)
 - Плановая дата поставки
 - Фактическая дата поставки
 - Информация о цене - заполняется из соглашения

@@ -13,19 +13,19 @@ weight: 3
 - Номер - заполняется автоматически
 - Дата
 - Основание - заполняется автоматически, поле будет заполнено только в том случае, если возврат товаров был создан на основании документа *"Заявка на возврат товаров от клиента"*
-- [Организация](../../../CommonInformation/Organization.md)
-- [Холдинг](../../../CommonInformation/Holding.md)
-- [Контрагент](../../../CommonInformation/Contractor.md)
-- [Соглашение об условиях продаж](../Pricing/AgreementsWithContractors.md)
-- [Бизнес-регион](../../../CommonInformation/BusinessRegion.md) - указывается из соглашения
-- [Точка доставки](../../../CommonInformation/DeliveryPoint.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение об условиях продаж](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Бизнес-регион](https://konstanta-it.github.io/erp4food/CommonInformation/BusinessRegion) - указывается из соглашения
+- [Точка доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
 - Информация о цене - заполняется из соглашения
 
 **Вкладка "Товары"**
 
 Заполняется возвращаемыми товарами: указывается номенклатура, её характеристика, серия, количество, упаковка, цены рассчитываются автоматически на основании соглашения об условиях продаж, из точки доставки автоматически устанавливается склад, указывается причина возврата (создаются в справочнике **"Причины корректировок документов"**), в случае, если товар не возвращается на склад в таблице напротив товара ставится флажок **"Без возврата"**.
 
-Создадим **"Возврат товаров от клиента"** на основании [*"Заявки на возврат товаров от клиента"*](RequestForReturnOfProducts.md), которая была создана на основании реализации товаров по заказу на 29.05.2020.
+Создадим **"Возврат товаров от клиента"** на основании [*"Заявки на возврат товаров от клиента"*](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOFFeedback/RequestForReturnOfProducts), которая была создана на основании реализации товаров по заказу на 29.05.2020.
 
 [![1][1]][1]
 

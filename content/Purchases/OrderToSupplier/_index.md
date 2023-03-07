@@ -14,12 +14,12 @@ weight: 1
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Поставщик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Склад](https://konstanta-it.github.io/erp4food/CommonInformation/Warehouse)
 - Информация о цене - заполняется из соглашения
 - Дата доставки
 

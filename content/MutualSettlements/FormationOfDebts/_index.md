@@ -4,7 +4,7 @@ draft: false
 weight: 3
 ---
 
-После того как [график оплаты](PaymentSchedule.md) был создан, чтобы он работал нужно его указать в [соглашении с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md).
+После того как [график оплаты](https://konstanta-it.github.io/erp4food/MutualSettlements/PaymentSchedule) был создан, чтобы он работал нужно его указать в [соглашении с контрагентом](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors).
 
 В соглашении с контрагентом на вкладке **"Взаиморасчеты"** заполняются:
 
@@ -15,25 +15,25 @@ weight: 3
     - По накладным
     - По соглашениям
 
-- [График оплаты](PaymentSchedule.md)
+- [График оплаты](https://konstanta-it.github.io/erp4food/MutualSettlements/PaymentSchedule)
 
 [![1][1]][1]
 
-В [заказе клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder) из соглашения заполняются порядок расчетов, форма оплаты, график оплаты и валюта.
+В [заказе клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder) из соглашения заполняются порядок расчетов, форма оплаты, график оплаты и валюта.
 
 [![2][2]][2]
 
-В [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md) из соглашения заполняются порядок расчетов, форма оплаты, график оплаты и валюта. Табличная часть при проведении документа или по нажатию кнопки **"Заполнить по графику"** заполняется информацией о том какими датами и какими суммами ожидаются оплаты от клиента.
+В [реализации товаров](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts) из соглашения заполняются порядок расчетов, форма оплаты, график оплаты и валюта. Табличная часть при проведении документа или по нажатию кнопки **"Заполнить по графику"** заполняется информацией о том какими датами и какими суммами ожидаются оплаты от клиента.
 
 Задолженность будет отнесена на соглашение с клиентом или на реализацию в зависимости от выбранного порядка расчета.
 
 [![3][3]][3]
 
-Оформление [корректировки реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/AdjustingProductImplementations/AdjustingProductImplementations.md) меняет сумму задолженности клиента. Задолженность может как увеличиться, так и уменьшиться:
+Оформление [корректировки реализации товаров](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/AdjustingProductImplementations/AdjustingProductImplementations) меняет сумму задолженности клиента. Задолженность может как увеличиться, так и уменьшиться:
 
 [![4][4]][4]
 
-[Возврат товаров от клиента](../CRM/CustomerService/FormationOfAFeedback/ReturnOfProductsFromTheCustomer.md) уменьшает сумму задолженности клиента:
+[Возврат товаров от клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfAFeedback/ReturnOfProductsFromTheCustomer) уменьшает сумму задолженности клиента:
 
 [![5][5]][5]
 

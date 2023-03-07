@@ -14,9 +14,9 @@ weight: 4
 
 - Номер - заполняется автоматически при сохранении
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
 - Сумма документа
 - Валюта
 - Дата платежа
@@ -25,10 +25,10 @@ weight: 4
 
 На вкладке **"Расшифровка платежа"** заполняется таблица следующими данными:
 
-- Основание - [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) или [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md)
+- Основание - [соглашение с контрагентом](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors) или [реализации товаров](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts)
 - Сумма
-- [Статья ДДС](CashFlowItems.md)
+- [Статья ДДС](https://konstanta-it.github.io/erp4food/MutualSettlements/CashFlowItems)
 
 [![3][3]][3]
 

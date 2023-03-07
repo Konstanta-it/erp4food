@@ -16,8 +16,8 @@ weight: 2
 
 - Наименование - используется для представления объекта в системе
 - Группа направлений
-- Выручка от продаж - [статья доходов](IncomeItems.md)
-- Себестоимость продаж - [статья затрат](ItemsOfExpenditure.md)
+- Выручка от продаж - [статья доходов](https://konstanta-it.github.io/erp4food/FinancialResult/IncomeItems)
+- Себестоимость продаж - [статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure)
 - Описание - произвольный комментарий
 
 [![2][2]][2]

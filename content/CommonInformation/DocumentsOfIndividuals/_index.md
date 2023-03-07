@@ -43,11 +43,11 @@ weight: 21
 
 [![5][5]][5]
 
-Водительское удостоверение водителя заполняется в [заданиях на доставку](../CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md):
+Водительское удостоверение водителя заполняется в [заданиях на доставку](http://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar):
 
 [![6][6]][6]
 
-Доверенности физического лица указываются в [заданиях на доставку](../CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md) и в [реализациях товаров](../CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md). Доверенность подбирается по перевозчику. Если по перевозчику нет доверенности, то выбирается та у которой поле кем выдана заполнено строкой.
+Доверенности физического лица указываются в [заданиях на доставку](http://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar) и в [реализациях товаров](http://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts). Доверенность подбирается по перевозчику. Если по перевозчику нет доверенности, то выбирается та у которой поле кем выдана заполнено строкой.
 
 [![7][7]][7]
 

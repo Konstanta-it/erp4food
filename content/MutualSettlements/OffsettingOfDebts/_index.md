@@ -21,9 +21,9 @@ weight: 7
 
 - Номер - заполняется автоматически
 - Дата
-- Дебитор - [контрагент](../CommonInformation/Contractor.md) с которого списывается задолженность
-- Кредитор - [контрагент](../CommonInformation/Contractor.md) на которого переносится задолженность
-- [Организация](../CommonInformation/Organization.md)
+- Дебитор - [контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor) с которого списывается задолженность
+- Кредитор - [контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor) на которого переносится задолженность
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
 - Дата списания
 - Дата внесения
 

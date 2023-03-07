@@ -12,14 +12,14 @@ weight: 7
 
 В документе указываются:
 
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
 - Дата документа
 
 В табличной части заполняются:
 
-- [Направление деятельности](DirectionOfActivity.md)
-- [Статья затрат](ItemsOfExpenditure.md)
+- [Направление деятельности](https://konstanta-it.github.io/erp4food/FinancialResult/DirectionOfActivity)
+- [Статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure)
 - Аналитика затрат (тип аналитики определяется из статьи затрат)
 - Сумма
 - Пояснение - произвольный комментарий

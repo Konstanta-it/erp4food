@@ -19,12 +19,12 @@ weight: 2
 - Номер - заполняется автоматически
 - Дата
 - Основание - заполняется автоматически, поле будет заполнено только в том случае, если заявка на возврат товаров была создана на основании документа *"Реализация товаров"*
-- [Организация](../../../CommonInformation/Organization.md)
-- [Холдинг](../../../CommonInformation/Holding.md)
-- [Контрагент](../../../CommonInformation/Contractor.md)
-- [Соглашение об условиях продаж](../Pricing/AgreementsWithContractors.md)
-- [Бизнес-регион](../../../CommonInformation/BusinessRegion.md) - указывается из соглашения
-- [Точка доставки](../../../CommonInformation/DeliveryPoint.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение об условиях продаж](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Бизнес-регион](https://konstanta-it.github.io/erp4food/CommonInformation/BusinessRegion) - указывается из соглашения
+- [Точка доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
 - Информация о цене - заполняется из соглашения
 
 **Вкладка "Товары"**

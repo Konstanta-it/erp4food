@@ -10,12 +10,12 @@ weight: 8
 
 [![1][1]][1]
 
-В документе можно указать [сценарий](CostAllocationScenario.md), остальные поля документа будут заполнены по нему автоматически. Кнопка **"Заполнить и распределить"** позволяет выполнить заполнение таблиц **"Затраты"**, **"База"** и распределить затраты в соответсвии с выбранным сценарием одним действием.
+В документе можно указать [сценарий](https://konstanta-it.github.io/erp4food/FinancialResult/CostAllocationScenario), остальные поля документа будут заполнены по нему автоматически. Кнопка **"Заполнить и распределить"** позволяет выполнить заполнение таблиц **"Затраты"**, **"База"** и распределить затраты в соответсвии с выбранным сценарием одним действием.
 
 Если сценария нет, то заполняются поля:
 
-- [Организация](../CommonInformation/Organization.md)
-- [Направление деятельности](DirectionOfActivity.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Направление деятельности](https://konstanta-it.github.io/erp4food/FinancialResult/DirectionOfActivity)
 
 На вкладке **"Затраты"** заполняются отборы:
 
@@ -23,8 +23,8 @@ weight: 8
 
 [![2][2]][2]
 
-- [Подразделение](../CommonInformation/Department.md) - отвечает за то по каким подразделениям будут выбираться затраты
-- [Статья затрат](ItemsOfExpenditure.md) - отвечает за отбор затрат по указанным статьям
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department) - отвечает за то по каким подразделениям будут выбираться затраты
+- [Статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure) - отвечает за отбор затрат по указанным статьям
 - Аналитика затрат - отвечает за отбор затрат по указанным аналитикам
 - Отбор - позволяет установить дополнительные отборы
 - Сортировка - позволяет задать порядок затрат
@@ -33,8 +33,8 @@ weight: 8
 
 Далее по кнопке **"Заполнить"** табличная часть заполняется затратами согласно установленным отборам, заполняются поля:
 
-- [Подразделение](../CommonInformation/Department.md)
-- [Статья затрат](ItemsOfExpenditure.md)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure)
 - Аналитика затрат
 - Сумма
 
@@ -49,19 +49,19 @@ weight: 8
 - Признак **"База на каждую строку затрат"** - устанавливается для того, чтобы для каждой строки затрат определялась своя база
 - В таблице устанавливаются отборы по которым определяется база (например, если распределяются затраты на доставку нам сторонней транспортной компанией, то базу нужно расчитывать по Перевозчику):
 
-    - Торговый представитель - менеджер [точки доставки](../CommonInformation/DeliveryPoint.md)
+    - Торговый представитель - менеджер [точки доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
     - Менеджер направления - менеджер группы партнеров для планирования
-    - Менеджер клиента - менеджер [контрагента](../CommonInformation/Contractor.md)
-    - [Товарная категория](../CommonInformation/РroductCategory.md)
+    - Менеджер клиента - менеджер [контрагента](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Товарная категория](https://konstanta-it.github.io/erp4food/CommonInformation/РroductCategory)
     - Маркетинговое мероприятие
-    - [Перевозчик](../CommonInformation/Contractor.md)
+    - [Перевозчик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
     - Транспортное средство
     - Водитель
-    - [Задание на доставку](../CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar.md)
-    - [Холдинг](../CommonInformation/Holding.md)
-    - [Контрагент](../CommonInformation/Contractor.md)
-    - [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
-    - [Подразделение](../CommonInformation/Department.md)
+    - [Задание на доставку](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/DistributionOfShipmentsByCar)
+    - [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+    - [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+    - [Заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder)
+    - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
     - Отбор - позволяет установить дополнительные отборы
     - Сортировка - позволяет задать порядок базы
 
@@ -69,11 +69,11 @@ weight: 8
 
 По кнопке **"Заполнить"** табличная часть вкладки заполняется отгрузками по установленным отборам согласно аналитикам затрат, заполняются поля:
 
-- [Номенклатура](../CommonInformation/Nomenclature.md)
-- [Контрагент](../CommonInformation/Contractor.md)
-- [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
-- [Документ продаж](../CRM/CustomerService/FormationOfShipments/ProductsShipment.md)
-- [Подразделение](../CommonInformation/Department.md)
+- [Номенклатура](https://konstanta-it.github.io/erp4food/CommonInformation/Nomenclature)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder)
+- [Документ продаж](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/ProductsShipment)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
 - Количество
 - Сумма
 - Вес
@@ -96,11 +96,11 @@ weight: 8
 
 По кнопке **"Распределить"** на вкладке табличная часть заполняется распределенными по базе затратами, заполняются поля:
 
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
-- [Заказ клиента](../CRM/CustomerService/FormationOfOrders/CustomerOrder.md)
-- [Номенклатура](../CommonInformation/Nomenclature.md)
-- [Статья затрат](ItemsOfExpenditure.md)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Заказ клиента](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfOrders/CustomerOrder)
+- [Номенклатура](https://konstanta-it.github.io/erp4food/CommonInformation/Nomenclature)
+- [Статья затрат](https://konstanta-it.github.io/erp4food/FinancialResult/ItemsOfExpenditure)
 - Аналитика затрат
 - Показатель
 - Сумма

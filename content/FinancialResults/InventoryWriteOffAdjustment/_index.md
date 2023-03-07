@@ -13,7 +13,7 @@ weight: 9
 В документе указываются:
 
 - Дата
-- [Организация](../CommonInformation/Organization.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
 - Период
 - Ответственный
 - Комментарий

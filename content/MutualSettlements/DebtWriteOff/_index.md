@@ -14,9 +14,9 @@ weight: 8
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Контрагент](../CommonInformation/Contractor.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
 - Дата списания
 
 [![2][2]][2]

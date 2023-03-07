@@ -14,13 +14,13 @@ weight: 4
 
 - Номер - заполняется автоматически
 - Дата
-- Основание - заполняется автоматически, поле будет заполнено только в том случае, если возврат товаров был создан на основании документа [*"Поступление товаров"*](ReceiptOfProducts.md)
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
-- [Холдинг](../CommonInformation/Holding.md)
-- [Поставщик](../CommonInformation/Contractor.md)
-- [Соглашение](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-- [Склад](../CommonInformation/Warehouse.md)
+- Основание - заполняется автоматически, поле будет заполнено только в том случае, если возврат товаров был создан на основании документа [*"Поступление товаров"*](https://konstanta-it.github.io/erp4food/Purchases/ReceiptOfProducts)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Поставщик](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Склад](https://konstanta-it.github.io/erp4food/CommonInformation/Warehouse)
 - Информация о цене - заполняется из соглашения
 
 **Вкладка "Товары"**

@@ -15,14 +15,14 @@ weight: 9
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../CommonInformation/Organization.md)
-- [Подразделение](../CommonInformation/Department.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
 - Касса
 - Дата листа
 
 [![2][2]][2]
 
-На вкладке ***Кассовые ордера*** по кнопке **Заполнить за день** табличная часть заполняется всеми [приходными](IncomingCashOrders.md) и [расходными](CashExpenseOrders.md) ордерами, которые отражают операции с кассой за ***Дату листа***.
+На вкладке ***Кассовые ордера*** по кнопке **Заполнить за день** табличная часть заполняется всеми [приходными](https://konstanta-it.github.io/erp4food/MutualSettlements/IncomingCashOrders) и [расходными](https://konstanta-it.github.io/erp4food/MutualSettlements/CashExpenseOrders) ордерами, которые отражают операции с кассой за ***Дату листа***.
 
 [![3][3]][3]
 

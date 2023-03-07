@@ -18,10 +18,10 @@ weight: 6
 
     - ***Возврат оплаты клиенту***, в документе заполняются реквизиты:
 
-        - [Организация](../CommonInformation/Organization.md)
-        - [Подразделение](../CommonInformation/Department.md)
+        - [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+        - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
         - Касса
-        - [Контрагент](../CommonInformation/Contractor.md)
+        - [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
         - Сумма документа
         - Валюта
         - Дата платежа
@@ -30,17 +30,17 @@ weight: 6
 
         На вкладке **"Расшифровка платежа"** табличная часть заполняется следующими данными:
 
-        - Основание - [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md)
-        - Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) или [реализации товаров](../CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts.md)
+        - Основание - [соглашение с контрагентом](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+        - Объект расчета - объект по которому будет зачтена оплата от клиента, это могут быть [соглашение с контрагентом](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors) или [реализации товаров](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/FormationOfTheAccompanyingDocuments/FormationOfTheImplementationsOfProducts)
         - Сумма
-        - [Статья ДДС](CashFlowItems.md)
+        - [Статья ДДС](https://konstanta-it.github.io/erp4food/MutualSettlements/CashFlowItems)
 
         [![3][3]][3]
 
     - ***Прочие расходы***, в документе заполняются поля:
 
-        - [Организация](../CommonInformation/Organization.md)
-        - [Подразделение](../CommonInformation/Department.md)
+        - [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+        - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
         - Касса
         - Сумма документа
         - Валюта
@@ -50,8 +50,8 @@ weight: 6
 
     - ***Выдача подотчетнику***, в документе заполняются поля:
 
-        - [Организация](../CommonInformation/Organization.md)
-        - [Подразделение](../CommonInformation/Department.md)
+        - [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+        - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
         - Касса
         - Подотчетное лицо
         - Сумма документа
@@ -62,10 +62,10 @@ weight: 6
 
     - ***Списание по результатам инвентаризации***, в документе заполняются поля:
 
-        - [Организация](../CommonInformation/Organization.md)
-        - [Подразделение](../CommonInformation/Department.md)
+        - [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+        - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
         - Касса
-        - [Инвентаризация](CashInventory.md)
+        - [Инвентаризация](https://konstanta-it.github.io/erp4food/MutualSettlements/CashInventory)
         - Сумма документа
         - Валюта
         - Дата платежа
@@ -74,8 +74,8 @@ weight: 6
 
     - ***Инкассация в банк***, в документе заполняются поля:
 
-        - [Организация](../CommonInformation/Organization.md)
-        - [Подразделение](../CommonInformation/Department.md)
+        - [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+        - [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
         - Касса
         - Банковский счет
         - Сумма документа

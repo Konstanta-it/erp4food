@@ -24,13 +24,13 @@ weight: 2
 
 - Номер - заполняется автоматически
 - Дата
-- [Организация](../../../CommonInformation/Organization.md)
-- [Подразделение](../../../CommonInformation/Department.md)
-- [Холдинг](../../../CommonInformation/Holding.md)
-- [Контрагент](../../../CommonInformation/Contractor.md)
-- [Соглашение об условиях продаж](../Pricing/AgreementsWithContractors.md)
-- [Бизнес-регион](../../../CommonInformation/BusinessRegion.md) - указывается из соглашения
-- [Точка доставки](../../../CommonInformation/DeliveryPoint.md)
+- [Организация](https://konstanta-it.github.io/erp4food/CommonInformation/Organization)
+- [Подразделение](https://konstanta-it.github.io/erp4food/CommonInformation/Department)
+- [Холдинг](https://konstanta-it.github.io/erp4food/CommonInformation/Holding)
+- [Контрагент](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
+- [Соглашение об условиях продаж](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors)
+- [Бизнес-регион](https://konstanta-it.github.io/erp4food/CommonInformation/BusinessRegion) - указывается из соглашения
+- [Точка доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
 - Тип доставки - заполняется из точки доставки, можно заполнить вручную (Самовывоз, Доставка сторонней транспортной компанией, Доставка нашей транспортной компанией)
 - Информация о цене - заполняется из соглашения
 - Дата отгрузки
@@ -92,9 +92,9 @@ weight: 2
 
 В табличной части заполняются:
 
-- [Точки доставки](../../../CommonInformation/DeliveryPoint.md)
+- [Точки доставки](https://konstanta-it.github.io/erp4food/CommonInformation/DeliveryPoint)
 - Каталоги в которые выгружаются бланки
-- Почта - заполняется из карточки [контрагента](../../../CommonInformation/Contractor.md)
+- Почта - заполняется из карточки [контрагента](https://konstanta-it.github.io/erp4food/CommonInformation/Contractor)
 
 ![10](10.png)
 
@@ -175,7 +175,7 @@ weight: 2
 
 ![23](23.png)
 
-Данная настройка не позволяет после оформления по заказу [плана отгрузки](../FormationOfShipments/PlanningOfShipments/CreationOfPlansForShipment.md) сделать количество товаров в заказе клиента меньше чем в плане:
+Данная настройка не позволяет после оформления по заказу [плана отгрузки](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOfShipments/PlanningOfShipments/CreationOfPlansForShipment) сделать количество товаров в заказе клиента меньше чем в плане:
 
 ![24](24.png)
 

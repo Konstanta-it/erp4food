@@ -5,14 +5,14 @@ weight: 11
 ---
 
 
-Для контрагентов у которых в [соглашении](../CRM/CustomerService/Pricing/AgreementsWithContractors.md) указан порядок расчетов по накладным могут быть оформлены авансы.
+Для контрагентов у которых в [соглашении](https://konstanta-it.github.io/erp4food/CRM/CustomerService/Pricing/AgreementsWithContractors) указан порядок расчетов по накладным могут быть оформлены авансы.
 
 [![1][1]][1]
 
 Для оформления авансов создаются документы:
 
-- [Приходный кассовый ордер](IncomingCashOrders.md) с операцией **Поступление оплаты**
-- [Поступление безналичных денежных средств](IncomingCashOrders.md)
+- [Приходный кассовый ордер](https://konstanta-it.github.io/erp4food/MutualSettlements/IncomingCashOrders) с операцией **Поступление оплаты**
+- [Поступление безналичных денежных средств](https://konstanta-it.github.io/erp4food/MutualSettlements/IncomingCashOrders)
 
 На вкладке расшифровка платежа в качестве объекта расчета указывается соглашение с клиентом.
 

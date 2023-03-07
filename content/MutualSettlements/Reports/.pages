@@ -1,7 +1,0 @@
-title: Отчеты
-collapse: false
-arrange:
-    - StatementOfSettlementsWithClients.md
-    - CustomerDebt.md
-    - StatementOfCashInCashDesks.md
-    - CashBalancesAtTheCashDesks.md

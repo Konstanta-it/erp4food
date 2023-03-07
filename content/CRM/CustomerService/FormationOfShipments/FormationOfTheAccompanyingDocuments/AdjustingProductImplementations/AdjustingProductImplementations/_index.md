@@ -8,7 +8,7 @@ weight: 1
 
 [![1][1]][1]
 
-После открытия обработки заполняются настройки формирования накладных (описаны в разделе [формирования реализаций](../FormationOfTheImplementationsOfProducts.md))
+После открытия обработки заполняются настройки формирования накладных (описаны в разделе [формирования реализаций](https://konstanta-it.github.io/erp4food/CRM/CustomerService/FormationOFShipments/FormationOfTheAccompayingDocuments/FormationOfTheImplementationsOfProducts))
 
 Затем нажимаем кнопку **"Обновить"**, на форме будут выведены **"Задания на доставку"** по которым есть **"Реализации товаров"** в статусе **"Выдана"**.
 

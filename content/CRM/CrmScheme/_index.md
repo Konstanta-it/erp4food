@@ -1,5 +1,5 @@
 ---
-title: "CRM"
+title: "Схема CRM"
 draft: false
 weight: 1
 ---
