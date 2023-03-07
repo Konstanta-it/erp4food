@@ -2,5 +2,5 @@
 title: "Приемка"
 draft: false
 description: ""
-weight: 6
+weight: 2
 ---

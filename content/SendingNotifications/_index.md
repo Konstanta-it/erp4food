@@ -1,5 +1,5 @@
 ---
 title: "Отправка уведомлений"
 draft: false
-weight: 9
+weight: 12
 ---

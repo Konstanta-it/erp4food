@@ -2,7 +2,7 @@
 title: "Формирование шаблонов этикеток"
 description: ""
 draft: false
-weight: 1
+weight: 17
 ---
 
 {{< lead >}}

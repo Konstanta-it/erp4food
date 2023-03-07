@@ -2,5 +2,5 @@
 title: "Отгрузки"
 draft: false
 description: ""
-weight: 3
+weight: 5
 ---
