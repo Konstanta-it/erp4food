@@ -5,4 +5,4 @@ draft: false
 weight: 1
 ---
 
-## Информация общего назначения
+{{< childpages >}}
