@@ -27,7 +27,7 @@ toc = true
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Основной сайт</button>"
+name = "<button class='btn btn-success mt-n1'>Перейти на сайт е4</button>"
 url = "https://erp4food.ru/"
 weight = 1
 
