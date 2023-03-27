@@ -1,4 +1,8 @@
-# Производство
+---
+title: "Производство"
+draft: false
+weight: 2
+---
 
 На вкладке **"Производство"** есть три основные вкладки:
 
@@ -8,7 +12,7 @@
 
 ## Вкладка незавершенное производство
 
-На закладке **Незавершенное производство** отбирается подконтрольная продукция по документам, указанным в [**Перечне документов оперативного учёта НЗП**](../NormativeReferenceInformation/FormationOfParties/ListOfOperationalAccountingDocuments.md).
+На закладке **Незавершенное производство** отбирается подконтрольная продукция по документам, указанным в [**Перечне документов оперативного учёта НЗП**](https://konstanta-it.github.io/erp4food/mercury/integrationwithmercury/normativereferenceinformation/formationofparties/listofoperationalaccountingdocuments/).
 Для отбора продукции, необходимо указать в параметрах закладки дату выпуска (дата изготовления в справочнике серия). Указать Предприятие производитель и ХС производитель.
 
 Основные команды:
@@ -39,5 +43,5 @@
 
 [![2][2]][2]
 
-[1]: Production.assets/1.png
-[2]: Production.assets/2.png
+[1]: 1.png
+[2]: 2.png
