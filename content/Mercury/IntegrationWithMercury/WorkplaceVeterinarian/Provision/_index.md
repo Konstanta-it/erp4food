@@ -1,4 +1,8 @@
-# Обеспечение
+---
+title: "Обеспечение"
+draft: false
+weight: 3
+---
 
 На вкладке **"Обеспечение"** используются основные команды:
 
@@ -32,7 +36,7 @@
 
 [![4][4]][4]
 
-[1]: Provision.assets/1.png
-[2]: Provision.assets/2.png
-[3]: Provision.assets/3.png
-[4]: Provision.assets/4.png
+[1]: 1.png
+[2]: 2.png
+[3]: 3.png
+[4]: 4.png

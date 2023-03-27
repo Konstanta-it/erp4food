@@ -10,7 +10,7 @@ weight: 5
 
 Операции, которые можно совершать с ВСД:
 
-- [Гашение ВСД](ExtinguishingIncomingVSD.md) – используется для входящих
+- [Гашение ВСД](https://konstanta-it.github.io/erp4food/mercury/integrationwithmercury/listofvsd/extinguishingincomingvsd/) – используется для входящих
 - Внесение номера ТС в пункте перегрузки
 - Аннулирование – используется для транспортных ВСД
 - Заявка на выполнении бизнес операции – получить актуальный статус ВСД

@@ -1,9 +1,0 @@
-title: Интеграция с ГИС Меркурий
-collapse: false
-arrange:
-    - ConfiguringIntegration
-    - ExchangeWithGateway
-    - NormativeReferenceInformation
-    - WarehouseJournal
-    - ListOfVsd
-    - WorkplaceVeterinarian

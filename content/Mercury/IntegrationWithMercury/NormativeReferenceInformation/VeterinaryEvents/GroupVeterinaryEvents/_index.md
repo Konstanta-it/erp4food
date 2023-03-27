@@ -6,8 +6,8 @@ weight: 1
 
 В данной группе содержатся объекты для механизма автоматизированного прикрепления ветеринарных мероприятий:
 
-- [Ветеринарные события](VeterinaryEvents.md)
-- [Шаблоны внесения сведений о вет мероприятиях](TemplateForEnteringInformation.md)
+- [Ветеринарные события](https://konstanta-it.github.io/erp4food/mercury/integrationwithmercury/normativereferenceinformation/veterinaryevents/)
+- [Шаблоны внесения сведений о вет мероприятиях](https://konstanta-it.github.io/erp4food/mercury/integrationwithmercury/normativereferenceinformation/veterinaryevents/templateforenteringinformation/)
 - Заболевания, методы исследования, показатели безопасности - это справочники для заполнения основных реквизитов в ветеринарных событиях. В основном подгружаются из ГИС
 
 [![1][1]][1]

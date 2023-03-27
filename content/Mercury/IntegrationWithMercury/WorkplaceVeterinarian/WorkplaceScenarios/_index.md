@@ -1,4 +1,8 @@
-# Сценарии АРМа ветеринарного врача
+---
+title: "Сценарии АРМа ветеринарного врача"
+draft: false
+weight: 1
+---
 
 Предназначены для хранения параметров вкладок рабочего места и заполнения документов партий Меркурия.
 
@@ -47,7 +51,7 @@
 
 [![4][4]][4]
 
-[1]: WorkplaceScenarios.assets/1.png
-[2]: WorkplaceScenarios.assets/2.png
-[3]: WorkplaceScenarios.assets/3.png
-[4]: WorkplaceScenarios.assets/4.png
+[1]: 1.png
+[2]: 2.png
+[3]: 3.png
+[4]: 4.png
