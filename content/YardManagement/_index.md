@@ -8,3 +8,5 @@ weight: 12
 [![1][1]][1]
 
 [1]: 1.png
+
+{{< childpages >}}

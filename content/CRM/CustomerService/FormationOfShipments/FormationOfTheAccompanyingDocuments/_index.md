@@ -3,3 +3,5 @@ title: "Формирование сопроводительных докумен
 draft: false
 weight: 4
 ---
+
+{{< childpages >}}
