@@ -1,8 +1,0 @@
----
-title: "Общая информация"
-date: 2023-02-20T17:46:00+03:00
-draft: false
-weight: 1
----
-
-{{< childpages >}}
