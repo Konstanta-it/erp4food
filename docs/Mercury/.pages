@@ -1,5 +1,11 @@
-title: Меркурий
+title: Интеграция с ГИС Меркурий
 collapse: false
 arrange:
-    - IntegrationWithMercury
-    - Manufacture
+    - SchemeMercury.md
+    - Symbols.md
+    - ConfiguringIntegration
+    - ExchangeWithGateway
+    - NormativeReferenceInformation
+    - WarehouseJournal
+    - ListOfVsd
+    - WorkplaceVeterinarian
