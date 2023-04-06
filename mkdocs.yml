@@ -16,9 +16,6 @@ theme:
   include_search_page: false
   search_index_only: true
 
-repo_name: 'Konstanta-it/erp4food'
-repo_url: https://github.com/Konstanta-it/erp4food
-
 markdown_extensions:
     - markdown.extensions.toc:
         permalink: false
@@ -63,10 +60,6 @@ plugins:
       collapse_single_pages: true
   - minify:
       minify_html: true
-
-extra:
-  social:
-    - icon: fontawesome/brands/gitlab
-      link: 'https://github.com/Konstanta-it/erp4food'
+      
 extra_css:
     - assets/css/custom.css
