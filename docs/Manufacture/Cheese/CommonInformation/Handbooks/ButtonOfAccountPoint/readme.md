@@ -25,4 +25,3 @@
 - [Комплектация через весы](PackagingWithScales/PackagingWithScales.md)
 - [Терминал сбора данных](DataCollectionTerminal/DataCollectionTerminal.md)
 - [Взвешивание тары](ContainerWeighing/ContainerWeighing.md)
-- [Формирование состава бригады](FormationOfTeamComposition/FormationOfTeamComposition.md)

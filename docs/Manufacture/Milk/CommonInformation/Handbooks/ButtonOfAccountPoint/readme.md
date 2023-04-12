@@ -24,4 +24,3 @@
 - [Работа с заявками на регистрацию показателей складов](WorkWithRequestToRegistrationIndicatorsOfWarehouses/WorkWithRequestToRegistrationIndicatorsOfWarehouses.md)
 - [Комплектация через весы](PackagingWithScales/PackagingWithScales.md)
 - [Терминал сбора данных](DataCollectionTerminal/DataCollectionTerminal.md)
-- [Формирование состава бригады](FormationOfTeamComposition/FormationOfTeamComposition.md)
