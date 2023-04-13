@@ -46,11 +46,13 @@
 
 -   *Тип* - определяет тип номенклатуры:
     
-    a. Пакет - для пакетов, использующихся при [упаковке голов сыра](../../../SemiHardCheese/SaltingAndGoToMaturation/PoolCheeseExtractionAndPacking/AccountingPoolCheeseExtractionAndPacking.md);  
-    b. Короб - для коробов, в которые укладывается сыр при
+    1. Пакет - для пакетов, использующихся при [упаковке голов сыра](../../../SemiHardCheese/SaltingAndGoToMaturation/PoolCheeseExtractionAndPacking/AccountingPoolCheeseExtractionAndPacking.md);  
+    2. Короб - для коробов, в которые укладывается сыр при
     [перевзвешивании после созревания](../../../SemiHardCheese/MarkedProduction/AccountingProduction/CompletingWithScales/readme.md);  
-    c. Сырье и материалы - для принимаемого сырья (молоко);  
-    d. Прочее - все остальное;
+    3. Сырье и материалы - для принимаемого сырья (молоко);
+    4. Полуфабрикат - для продуктов, изготовляемых в процессе производства;
+    5. Готовая продукция - для продуктов, обозначающих конечный результат произвдства;
+    6. Прочее - все остальное;
 
 -   *Тип воспроизводства* - определяет, каким образом "появляется" номенклатура данного вида:
 
