@@ -22,6 +22,7 @@
     ![](Shift.assets/drex_smeny_custom_3.png)
      
 -   Указать наименование, время начала и окончания смены:
+
     ![](Shift.assets/drex_smeny_custom_4.png)
      
 -   Нажать "Записать и закрыть".

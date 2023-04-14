@@ -56,6 +56,7 @@
      
 -   Указать в создаваемых документах "Переработка", и, что при её
     создании, основной материал списывается по факту:
+
     ![](AccountPoints.assets/drex_uchetnye_tochki_4_custom_7.png)
      
 -   Указать, что вспомогательные материалы списываются по норме с одним
@@ -69,15 +70,18 @@
 -   Указать, что в АРМе оператор выбирает пакет, в который происходит упаковка голов:
 
     ![](AccountPoints.assets/drex_uchetnye_tochki_4_custom_9.png)
-     
+
+
 -   Если сыр укладывают на контейнеры или тары, то указать, что ведется учет по таре (указать, по какой именно):
 
     ![](AccountPoints.assets/drex_uchetnye_tochki_4_custom_10.png)
-     
+
+
 -   Указать участок упаковки сыра:
 
     ![](AccountPoints.assets/drex_uchetnye_tochki_4_custom_11.png)
-     
+
+    
 -   Ограничить склады для выпуска:
 
     ![](AccountPoints.assets/drex_uchetnye_tochki_4_custom_12.png)

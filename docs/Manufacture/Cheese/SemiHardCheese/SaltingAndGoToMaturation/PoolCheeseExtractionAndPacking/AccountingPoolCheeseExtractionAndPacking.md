@@ -25,7 +25,7 @@
     извлекать, тем выше соответствующая строка в таблице:
     ![](AccountingPoolCheeseExtractionAndPacking.assets/drex_uchet_izvlecheniya_syra_iz_bassejna_i_upakovki_custom_4.png)
      
--   Нажать на извлекаемую варку сыра и нажать "Переработка":
+-   Нажать на извлекаемую варку сыра и нажать "Выбрать":
     ![](AccountingPoolCheeseExtractionAndPacking.assets/drex_uchet_izvlecheniya_syra_iz_bassejna_i_upakovki_custom_5.png)
      
 -   В открывшейся форме указать, на какой склад передается варка сыра и
@@ -52,4 +52,6 @@
 -   Подтвердить, нажав кнопку с галочкой. Автоматически печатается
     этикетка контейнера, по которой в дальнейшем можно найти информацию
     по контейнеру в системе:
+
+
     ![](AccountingPoolCheeseExtractionAndPacking.assets/drex_uchet_izvlecheniya_syra_iz_bassejna_i_upakovki_custom_10.png)
