@@ -8,7 +8,8 @@
 
 -   Коэффициенты жира и белка в расчете стоимости сырья заполняются в "Настройки параметров учета":
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/1.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/1.png)
+
 -   На вкладке "Баланс жира и белка" заполнить соответствующие поля и нажать "Записать и закрыть":
 
 ![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/2.png)
@@ -22,13 +23,15 @@
     
 -    Открыть справочник "Виды цен" и перейти к созданию нового элемента:
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/3.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/3.png)
+
 -   В поле "Наименование" указать, к какому поставщику относится
     создаваемый вид цены. В поле "Валюта" - валюта, в которой будут идти
     расчеты с этим поставщиком:  
 *В наименовании поставщик и указание, что это цена его молока базисной жирности*
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/4.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/4.png)
+
 -    "Способ задания" указать "Ручной ввод" и нажать "Записать и
     закрыть":  
 
@@ -42,18 +45,22 @@
 -   Открыть документы "История изменеия цен" и перейти к
     созданию нового:
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/6.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/6.png)
+
 -   В таблице перечислить цены всех поставщиков, которые будут заданы
     далее, и нажать "Перейти к установке цен":
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/7.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/7.png)
+
 -   В таблицу добавить номенклатуру молочного сырья:
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/8.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/8.png)
+
 -   Заполнить столбцы "Новая цена" под каждым поставщиком
     соответствующей стоимостью:
 
-![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/9.png)  
+![](ustanovka_tsen_i_parametrov_raschetov_tsen.assets/9.png)
+
 -   Нажать "Провести и закрыть".
 
 

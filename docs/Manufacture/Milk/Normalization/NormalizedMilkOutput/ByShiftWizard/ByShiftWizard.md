@@ -15,10 +15,7 @@
 ![](ByShiftWizard.assets/drex_vypusk_masterom_smeny_3_custom_3.png)
 -   Выбрать участок нормализации:  
 ![](ByShiftWizard.assets/drex_vypusk_masterom_smeny_3_custom_4.png)
--   Перейти на вкладку "Остатки" -\> "Прочее" (или "Материалы", в
-    зависимости от того, как настроен учет в системе):  
-![](ByShiftWizard.assets/drex_vypusk_masterom_smeny_3_custom_5.png) 
--   Переключиться в режим диаграммы для более удобного просмотра
+-   Перейти на вкладку "Остатки", переключиться в режим диаграммы для более удобного просмотра
     остатков:  
 ![](ByShiftWizard.assets/drex_vypusk_masterom_smeny_3_custom_6.png) 
 -   Увидеть, что по учету в системе в танке отображаются обрат и молоко.

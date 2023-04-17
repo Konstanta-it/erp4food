@@ -7,13 +7,16 @@
 
 -   Открыть все отчеты подсистемы "Производство":
 
-![](MonitoringMilkReceiving.assets/1.png)   
+![](MonitoringMilkReceiving.assets/1.png)
+
 -   Открыть отчет "Анализ поступления молочного сырья":
 
-![](MonitoringMilkReceiving.assets/2.png)   
+![](MonitoringMilkReceiving.assets/2.png)
+
 -   Cформировать:
 
-![](MonitoringMilkReceiving.assets/3.png)   
+![](MonitoringMilkReceiving.assets/3.png)
+
 -   За указанный период в отчете предоставляется следующая информация:
     -   Куда, когда и от кого было принято молоко;
     -   Сколько было принято в кг, жирокилограммах и белкокилограммах;

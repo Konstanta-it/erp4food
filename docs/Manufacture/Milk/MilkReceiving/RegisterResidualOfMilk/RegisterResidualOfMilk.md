@@ -6,23 +6,28 @@
 
 -   Открыть "Рабочее место мастера смены":
 
-![](RegisterResidualOfMilk.assets/1.png)  
+![](RegisterResidualOfMilk.assets/1.png)
+
 -   Указать дату смены и смену:
 
-![](RegisterResidualOfMilk.assets/2.png)  
+![](RegisterResidualOfMilk.assets/2.png)
+
 -   Указать участок приемно-аппаратного цеха:
 
-![](RegisterResidualOfMilk.assets/3.png)  
+![](RegisterResidualOfMilk.assets/3.png)
+
 -   В таблице ниже выбрать участок, на котором хранится принятое сырье:
 
-![](RegisterResidualOfMilk.assets/4.png)  
-- На вкладке "Остатки" отображается информация по
-    оборотам молока в каждом танке.    
-Необходимо указать остатки молока по каждому танку при наличии
+![](RegisterResidualOfMilk.assets/4.png)
+
+
+-   На вкладке "Остатки" отображается информация по
+    оборотам молока в каждом танке. Необходимо указать остатки молока по каждому танку при наличии
     таковых на конец смены. Для этого нажать на нужный танк (неважно, в
     каком режиме) и нажать "Указать остаток":
 
-![](RegisterResidualOfMilk.assets/5.png)   
+![](RegisterResidualOfMilk.assets/5.png)
+
 -   Указать, сколько кг осталось и какие показатели жира и белка у
     остатка, и подтвердить:
 
