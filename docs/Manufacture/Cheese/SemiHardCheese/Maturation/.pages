@@ -7,7 +7,6 @@ arrange:
     - CorrectPlanReadyTime
     - ReleaseOfRipenedCheeseNoWeighing
     - RipenedCheeseOutput
-    - AutomationElectricCarDrivers
     - InventoryInRipeningChambers
     - CheckWorkShift
     - AccountingCorrugatedBoxesAndPackagingMaterials

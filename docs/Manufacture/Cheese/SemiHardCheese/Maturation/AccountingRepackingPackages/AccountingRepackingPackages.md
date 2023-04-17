@@ -4,16 +4,20 @@
 
 - Открыть "Рабочее место начальника склада":
 
-!["Рабочее место начальника склада"](AccountingRepackingPackages.assets/Pictures_01.gif)
+!["Рабочее место начальника склада"](AccountingRepackingPackages.assets/Pictures_01.png)
 
 - Открыть вкладку "Настройки" и указать участок, на котором нужно зафиксировать переупаковку:  
 - Указать склад, на котором находится партия для указания переупаковки:  
 
-<video source src="../AccountingRepackingPackages.assets/Pictures_02.mp4" width="1024" controls="controls"> </video>
+![](AccountingRepackingPackages.assets\Pictures_02.png)
+
 
 - В таблице отобразятся все варки сыра. Выбрать ту, по которой нужно учесть переупаковку и нажать "Указать переупаковку":  
 - Указать пакет, в который была переупакована партия:  
 - Указать участок, на котором была переупаковка, если он еще не указан:  
 - Указать количество использованных пакетов и подтвердить:
 
-<video source src="../AccountingRepackingPackages.assets/Pictures_03.mp4" width="1024" controls="controls"> </video>
+![](AccountingRepackingPackages.assets\Pictures_03.png)
+
+
+![](AccountingRepackingPackages.assets\Pictures_04.png)
