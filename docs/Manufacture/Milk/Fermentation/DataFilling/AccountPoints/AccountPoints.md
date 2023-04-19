@@ -74,7 +74,8 @@
 -   Указать участок заквашивания:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_9.png)
-     
+
+
 -   Ограничить склады для выпуска:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_10.png)
