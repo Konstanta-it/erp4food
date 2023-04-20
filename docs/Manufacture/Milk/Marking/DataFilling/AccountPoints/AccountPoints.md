@@ -19,11 +19,13 @@
     элемента:
 
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom.png)
-     
+
+
 -   Указать наименование:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_2.png)
-     
+
+
 -   Указать список пользователей, у которых будет доступ к этой учетной
     точке (т.е. только они смогут выполнять операции, относящиеся к этой
     учетной точке):
@@ -31,8 +33,9 @@
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_3.png)
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_4.png)
-     
--  Нажать "Записать и закрыть".
+
+
+-   Нажать "Записать и закрыть".
      
 
 **Справочник "Кнопки учетных точек".**  
@@ -44,17 +47,20 @@
     открыть:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom.png)
-     
+
+
 -   В таблице кнопок нажать "Создать":
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_5.png)
-     
+
+
 -   Указать наименование и выбрать обработку "Работа с заданиями" - если
     выпуск продукции идет строго по заданию на смену или
     "Оперативный учет на рабочем центре" - в противном случае:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_6.png)
-     
+
+
 -   Указать в создаваемых документах "Переработка", указав, что при этом основной материал не списывается (он будет распределен в конце смены на все выпуски), а материалы списываются по норме:
 
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_7.png)
@@ -62,15 +68,18 @@
 -    Указать в создаваемы документах "Упаковочный лист" - чтобы печатался паллетный лист на выпускаемую продукцию:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_8.png)
-     
+
+
 -   Указать, что на киоске кнопка для учета выпуска будет доступна, а в "Сценарии работы" указать, что можно учитывать выпуск упаковками и фиксировать его несколькими документами:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_9.png)
-     
+
+
 -   Указать участок розлива:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_10.png)
-     
+
+
 -   Указать склад для выпуска:
     
 ![](AccountPoints.assets/drex_uchetnye_tochki_1_custom_11.png)

@@ -7,21 +7,28 @@
 
 -   Открыть "Рабочее место мастера смены":
 
-![](ProductionBatch.assets/1.png)   
+![](ProductionBatch.assets/1.png)
+
+
 -   Указать дату смены и смену:
 
-![](ProductionBatch.assets/2.png)    
+![](ProductionBatch.assets/2.png)
+
+
 -   Указать участок приемно-аппаратного цеха:
 
-![](ProductionBatch.assets/3.png)  
+![](ProductionBatch.assets/3.png)
+
 -   Выбрать участок, на котором принимается молоко:
 
-![](ProductionBatch.assets/4.png)  
--   Перейти на вкладку "Остатки" -\> "Материалы" (или "Остатки" -\>
-    "Прочее", в зависимости от того, как настроен учет в системе).
-    Переключиться в режим диаграмы:
+![](ProductionBatch.assets/4.png)
 
-![](ProductionBatch.assets/5.png)  
+
+-   Перейти на вкладку "Остатки" -\> "Диаграмма":
+
+![](ProductionBatch.assets/5.png)
+
+
 -   Можно видеть, что в танке находится много партий от разных
     поставщиков, которые в действительности перемешались и по ним
     лаборатория взяла контрольный анализ. Выделить, зажав клавишу Ctrl,
@@ -29,9 +36,13 @@
 
 ![](ProductionBatch.assets/6.png)
 ![](ProductionBatch.assets/7.png)
+
+
 -   Потдвердить действие:
 
-![](ProductionBatch.assets/8.png)  
+![](ProductionBatch.assets/8.png)
+
+
 -   Теперь можно видеть одну производственную партию в этом танке:
 
 ![](ProductionBatch.assets/9.png)  

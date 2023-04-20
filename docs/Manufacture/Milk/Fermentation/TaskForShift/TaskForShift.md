@@ -12,7 +12,7 @@
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_3.png)
 -   В таблице ниже выбрать этот же участок:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_4.png) 
--   На вкладке "Выпуск" нажать кнопку "Задание на смену". Откроется окно создания задания с частично заполненной информацией:  
+-   На вкладке "Задания" нажать кнопку "Создать задание". Откроется окно создания задания с частично заполненной информацией:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_5.png)  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_6.png)
 -   Перейти на вкладку «Задание». Здесь нужно указать все полуфабрикаты,

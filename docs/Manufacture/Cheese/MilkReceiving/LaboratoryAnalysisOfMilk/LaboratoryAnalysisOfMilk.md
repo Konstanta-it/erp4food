@@ -49,11 +49,6 @@
 - В случае обнаружения некачественного молока в какой-либо из секций машины, при заполнении информации по этой секции установить галочку "Возврат поставщику":
 
   ![image-20200910104945429](../../../Milk/MilkReceiving/LaboratoryAnalysisOfMilk/LaboratoryAnalysisOfMilk.assets/image-20200910104945429.png)
-
--   Также заполнить всю информацию, ввести полученные анализы. Даже если выведется сообщение о том, что сорт не удалось определить, при записи данные сохранятся:
-    
-
-![image-20200910105054542](../../../Milk/MilkReceiving/LaboratoryAnalysisOfMilk/LaboratoryAnalysisOfMilk.assets/image-20200910105054542.png)
     
 -   Нажать "Записать".  
     ![](LaboratoryAnalysisOfMilk.assets/drex_uchet_laboratornykh_analizov_syrya_custom_9.png)

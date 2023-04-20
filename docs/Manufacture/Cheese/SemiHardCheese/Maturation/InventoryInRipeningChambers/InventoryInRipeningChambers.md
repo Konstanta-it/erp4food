@@ -50,6 +50,6 @@
     ![](InventoryInRipeningChambers.assets/drex_inventarizatsiya_v_kamerakh_sozrevaniya_custom_9.png)  
     При этом, если просканированные контейнеры были на другом складе, а просканировались на текущем, то создадутся перемещения на текущий. Если контейнеры по учету в системе находились на текущем складе, но не были просканированы, то они "отправятся" на склад пересчета:  
     ![](InventoryInRipeningChambers.assets/drex_inventarizatsiya_v_kamerakh_sozrevaniya_custom_10.png)  
-    P.S. склад пересчета указывается в настройках параметров учета:  
+    Склад пересчета указывается в настройках параметров учета:  
     ![](InventoryInRipeningChambers.assets/drex_inventarizatsiya_v_kamerakh_sozrevaniya_custom_11.png)
 

@@ -45,24 +45,29 @@
 -   Открыть справочник "Учетные точки". Среди списка найти нужную,
     открыть:
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom.png)
-     
+
+
 -   В таблице кнопок нажать "Создать":
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom_5.png)
      
 -   Указать наименование и выбрать обработку "Оперативный учет на
     рабочем центре" :
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom_6.png)
-     
+
+
 -   Указать в создаваемых документах "Перемещение":
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom_7.png)
-     
+
+
 -   Ограничить склады для выбора, откуда сырье может привозиться на
     нарезку и куда может выпускаться:
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom_8.png)
-     
+
+
 -   Указать склад нарезки (если он один):
     ![](AccountPoints.assets/drex_uchetnye_tochki_6_custom_9.png)
-     
+
+    
 -   Нажать "Записать и закрыть".
 
  

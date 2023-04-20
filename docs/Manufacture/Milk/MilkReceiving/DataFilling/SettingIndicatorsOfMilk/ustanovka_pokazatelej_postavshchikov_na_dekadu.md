@@ -9,22 +9,34 @@
     созданию нового:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/1.png)  
+
+
 -   Указать номенклатуру принимаемого сырья:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/2.png)  
--   Указать вид анализа, включающий устанавливаемые показатели:
+
+
+-  Указать вид анализа, включающий устанавливаемые показатели:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/3.png)  
--   Указать поставщика и, если необходимо, пункт сборки, для которого
+
+
+-  Указать поставщика и, если необходимо, пункт сборки, для которого
     эти показатели задаются:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/4.png)  
--   Указать начало и окончание действия показателей:
+
+
+-  Указать начало и окончание действия показателей:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/5.png)  
--   Перейти на вкладку "Показатели", заполнить все согласованные
+
+
+-  Перейти на вкладку "Показатели", заполнить все согласованные
     значения:
 
 ![](ustanovka_pokazatelej_postavshchikov_na_dekadu.assets/6.png)  
--   Нажать "Провести и закрыть".
+
+
+-  Нажать "Провести и закрыть".
 

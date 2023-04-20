@@ -42,19 +42,25 @@
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom.png)
 -   В таблице кнопок нажать "Создать":  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_5.png)
+
 -   Указать наименование и выбрать обработку "Работа с заданиями" - если
     выпуск смеси идут строго по заданию на смену или "Оперативный учет
     на рабочем центре" - в противном случае:  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_6.png)
+
 -   Указать в создаваемых документах "Переработка" и что при её создании
     нет списания материалов:  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_7.png)
+
 -   Указать видимость кнопки выпуска и что не ведется учет по таре:  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_8.png)
+
 -   Указать участок нормализации:  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_9.png)
+
 -   Ограничить склады для выпуска:  
 ![](AccountPoints.assets/drex_uchetnye_tochki_2_custom_10.png)
+
 -   Нажать "Записать и закрыть".
 
  
