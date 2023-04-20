@@ -23,12 +23,15 @@
     днем, неделей и т.п.), то указать фактическую дату поступления:
     
     ![](MovingWithWarehouse.assets/drex_peremeshchenie_s_drugogo_sklada_3_custom_5.png)
-     
+
+
 -   На вкладке "Факт" добавить все поступившие материалы:
     ![](MovingWithWarehouse.assets/drex_peremeshchenie_s_drugogo_sklada_3_custom_6.png)
-     
+
+
 -   Указать, сколько поступило каждого из указанных материалов:
     ![](MovingWithWarehouse.assets/drex_peremeshchenie_s_drugogo_sklada_3_custom_7.png)
-     
+
+
 -   Нажать "Провести и закрыть".
 

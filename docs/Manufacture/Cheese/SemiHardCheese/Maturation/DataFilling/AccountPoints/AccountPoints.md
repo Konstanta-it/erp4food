@@ -45,14 +45,16 @@
 этапа созревания сыра логично выделить кнопку для учета
 перевзвешивания сыра по заданию.
 
-  
+
 -   Открыть справочник "Учетные точки". Среди списка найти нужную,
     открыть:
     ![](AccountPoints.assets/drex_uchetnye_tochki_5_custom.png)
-     
+
+
 -   В таблице кнопок нажать "Создать":
     ![](AccountPoints.assets/drex_uchetnye_tochki_5_custom_5.png)
-     
+
+
 -   Указать наименование и выбрать обработку "Комплектация через весы" :
     ![](AccountPoints.assets/drex_uchetnye_tochki_5_custom_6.png)
 
