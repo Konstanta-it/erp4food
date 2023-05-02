@@ -12,11 +12,6 @@
 
 [![3][3]][3]
 
-На вкладке **"Бюджет"** заполняются расходы на проведение акции.
-
-[![4][4]][4]
-
 [1]: CompletionMarketingEvent.assets/1.png
 [2]: CompletionMarketingEvent.assets/2.png
 [3]: CompletionMarketingEvent.assets/3.png
-[4]: CompletionMarketingEvent.assets/4.png
