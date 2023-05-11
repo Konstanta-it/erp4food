@@ -1,0 +1,8 @@
+title: Планирование
+collapse: false
+arrange:
+    - Waves.md
+    - ProductionRequisitionPlanningScenarios.md
+    - StagesDocuments.md
+    - GroupsPlanningShipments.md
+    - SettingsFormingApplicationsForProduction.md
