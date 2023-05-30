@@ -8,6 +8,7 @@ arrange:
     - Warehouse
     - Marking
     - Mercury
+    - Planning
     - FinancialResults
     - MutualSettlements
     - YardManagement
