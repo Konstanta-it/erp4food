@@ -39,7 +39,7 @@
 - *Характеристика* - характеристика номенклатуры;
 - *Схема обеспечения* - используемая для обеспечения закупки схема;
 
-Для одного склада по одной номенклатуре может быть указано несколько схем обеспечния с одинаковым типом. В этом случае для них необходимо установить приоритет.
+Для одного склада по одной номенклатуре может быть указано несколько схем обеспечения с одинаковым типом. В этом случае для них необходимо установить приоритет.
 
 По кнопке **Пакетное заполнение** можно задать назначения схем обеспечения сразу для нескольких позиций номенклатуры.
 
@@ -51,9 +51,9 @@
 
 При нажатии на кнопку "Записать и закрыть" в системе формируются отдельные назначения на каждую указанную номенклатуру.
 
-[1]: AssignmentSupportSchemes.assert\1.png
-[2]: AssignmentSupportSchemes.assert\2.png
-[3]: AssignmentSupportSchemes.assert\3.png
-[4]: AssignmentSupportSchemes.assert\4.png
-[5]: AssignmentSupportSchemes.assert\5.png
-[6]: AssignmentSupportSchemes.assert\6.png
+[1]: AssignmentSupportSchemes.assets\1.png
+[2]: AssignmentSupportSchemes.assets\2.png
+[3]: AssignmentSupportSchemes.assets\3.png
+[4]: AssignmentSupportSchemes.assets\4.png
+[5]: AssignmentSupportSchemes.assets\5.png
+[6]: AssignmentSupportSchemes.assets\6.png

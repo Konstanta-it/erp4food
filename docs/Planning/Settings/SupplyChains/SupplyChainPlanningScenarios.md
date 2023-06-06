@@ -27,5 +27,5 @@
 
 Затем настраиваются отборы, по которым будет происходить планирование. В системе есть возможность задать товарные категории, производителя, склады отгрузки, волны отгрузки, исключаемые номенклатуры и точки доставки. При указании определенных вариантов только они будут учитываться при планировании.
 
-[1]: SupplyChainPlanningScenarios.assert\1.png
-[2]: SupplyChainPlanningScenarios.assert\2.png
+[1]: SupplyChainPlanningScenarios.assets\1.png
+[2]: SupplyChainPlanningScenarios.assets\2.png

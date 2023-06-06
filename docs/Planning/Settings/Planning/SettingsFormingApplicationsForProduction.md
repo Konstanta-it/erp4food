@@ -16,6 +16,6 @@
 
 [![3][3]][3]
 
-[1]: SettingsFormingApplicationsForProduction.assert\1.png
-[2]: SettingsFormingApplicationsForProduction.assert\2.png
-[3]: SettingsFormingApplicationsForProduction.assert\3.png
+[1]: SettingsFormingApplicationsForProduction.assets\1.png
+[2]: SettingsFormingApplicationsForProduction.assets\2.png
+[3]: SettingsFormingApplicationsForProduction.assets\3.png

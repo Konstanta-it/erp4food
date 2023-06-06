@@ -15,5 +15,5 @@
 
 [![2][2]][2]
 
-[1]: StagesDocuments.assert\1.png
-[2]: StagesDocuments.assert\2.png
+[1]: StagesDocuments.assets\1.png
+[2]: StagesDocuments.assets\2.png
