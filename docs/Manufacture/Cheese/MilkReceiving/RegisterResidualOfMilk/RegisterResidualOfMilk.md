@@ -21,7 +21,7 @@
 -   Указать, сколько кг осталось и какие показатели жира и белка у
     остатка, и подтвердить:  
 ![](RegisterResidualOfMilk.assets/drex_ukazanie_ostatkov_moloka_na_konets_dnya_custom_6.png)     
-В диаграмме появится новый блок, соответствующий остатку (можно увеличить масштаб диаграммы):   
+  
 ![](RegisterResidualOfMilk.assets/drex_ukazanie_ostatkov_moloka_na_konets_dnya_custom_7.png)  
 Повторить для каждого танка.
 

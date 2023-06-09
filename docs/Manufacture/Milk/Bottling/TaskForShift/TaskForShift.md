@@ -9,11 +9,11 @@
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom.png)
 -   Указать смену:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_2.png)
--   Указать участок, на котором производится заквашивание:  
+-   Указать участок, на котором производится розлив:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_3.png)
 -   В таблице ниже выбрать этот же участок:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_4.png)
--   На вкладке "Выпуск" нажать кнопку "Задание на смену". Откроется окно создания задания с частично заполненной информацией:  
+-   На вкладке "Задания" нажать кнопку "Создать задание". Откроется окно создания задания с частично заполненной информацией:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_5.png)  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_6.png)
 -   Перейти на вкладку «Задание». Здесь нужно указать все партии розлива,
@@ -21,7 +21,7 @@
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_7.png)
 -   Для партий маркированных в поле "Характеристика" указывать "Маркированная", для немаркированных - "Немаркированная":  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_8.png)
--   Для партий маркированных в поле "Серия" создавать новую с нужной датой маркировки:  
+-   Для партий маркированных в поле "Партия" создавать новую с нужной датой маркировки:  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_9.png)  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_10.png)  
 ![](TaskForShift.assets/drex_formirovanie_zadaniya_na_smenu_2_custom_11.png)

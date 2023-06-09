@@ -5,7 +5,4 @@ arrange:
     - SalesPlanningSettings
     - PlanningScenarioSettings.md
     - AnnualSalesPlan.md
-    - PlanningByProductCategories.md
-    - PlanningBySKU.md
-    - PlanningByResponsiblePersons.md
     - Reports

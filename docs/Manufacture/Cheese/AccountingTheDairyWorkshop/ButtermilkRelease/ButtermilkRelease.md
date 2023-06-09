@@ -11,7 +11,7 @@
 -   Открыть "Рабочее место мастера смены":  
     ![](ButtermilkRelease.assets/drex_vypusk_pakhty_custom.png)
      
--   Указать дату смены, смену и участок приемно-аппаратного цеха:  
+-   Указать дату смены, смену и участок:  
     ![](ButtermilkRelease.assets/drex_vypusk_pakhty_custom_2.png)  
     ![](ButtermilkRelease.assets/drex_vypusk_pakhty_custom_3.png)
      

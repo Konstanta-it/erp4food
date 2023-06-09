@@ -26,8 +26,10 @@
 Еще один отчет "Анализ выходов" позволяет увидеть, какой должен был
     быть нормативный расход смеси в кг и какой в итоге получился:  
     ![](LossAnalysis.assets/drex_analiz_poter_3_custom_7.png)
-     
--   Указать период, характеристику выпуска "Варка" и сформировать:  
+
+
+-   Указать период, характеристику выпуска "Варка" и сформировать:
+  
     ![](LossAnalysis.assets/drex_analiz_poter_3_custom_8.png)  
     ![](LossAnalysis.assets/drex_analiz_poter_3_custom_9.png)   
     ![](LossAnalysis.assets/drex_analiz_poter_3_custom_10.png)  

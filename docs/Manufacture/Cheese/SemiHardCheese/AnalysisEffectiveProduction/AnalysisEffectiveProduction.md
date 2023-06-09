@@ -31,19 +31,22 @@
 
 
 
-Есть также сборный отчет "Анализ варки сквозной", который по факту,
+Есть также сборный отчет "Анализ партии сквозной", который по факту,
 очень похож на выше описанную обработку, но отображается немного в
 другом виде и может быть настроен.
 
 
--   Открыть отчет "Анализ варки сквозной":  
+-   Открыть отчет "Анализ партии сквозной":  
     ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_3.png)  
-    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_4.png)
+
     
 -   Указать период, за который нужно проанализировать выпущенные варки:  
+    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_4.png)
+    
+-   Указать участок, на котором происходит выпуск варок сыра:
     ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_5.png)
     
--   Указать участок, на котором происходит выпуск варок сыра:  
+    
     Примечание. Период влияет именно на выпуск (первое "появление" на
     указанном РЦ), информация по анализам, материалам и прочему
     подтягивается независимо от периода.  
@@ -66,15 +69,17 @@
     специальные показатели, если есть необходимость их видеть в отчете,
     то в отборе они задаются строкой:  
     ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_10.png)  
-    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_11.png)  
-    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_12.png)  
+
     
 -   Можно выбрать, в разрезе часов или суток показывать время нахождения
-    продукции на разных складах:  
-    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_13.png)
+    продукции на разных складах:
+    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_11.png)  
+    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_12.png)  
+
     
--   Сохранить настройки и сформировать:  
-    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_14.png)
+-   Сохранить настройки и сформировать:
+    ![](AnalysisEffectiveProduction.assets/drex_analiz_ehffektivnosti_tekhnologii_proizvodstva_custom_13.png)  
+
     
 - Тогда в отчете в разрезе каждой варки, выпущенной в указанный период, будет отображена информация по:
     -   Выпущенному объему в кг;

@@ -25,44 +25,59 @@
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom.png)
      
 -   Указать наименование:
-    ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_2.png)
-     
+
+![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_2.png)
+
+
 -   Указать список пользователей, у которых будет доступ к этой учетной
     точке (т.е. только они смогут выполнять операции, относящиеся к этой
     учетной точке):
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_3.png)
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_4.png)
+    
+    
+-   Нажать "Записать и закрыть".
+
+
+**Справочник "Кнопки учетных точек".**  Данный справочник
+используется для того, чтобы настраивать различные операции,
+выполняемые на определенном участке производства. Например, для
+этапа варки логично выделить кнопку для работы с заданием на смену.
      
-    4. Нажать "Записать и закрыть".
-     
-    **Справочник "Кнопки учетных точек".**  Данный справочник
-    используется для того, чтобы настраивать различные операции,
-    выполняемые на определенном участке производства. Например, для
-    этапа варки логично выделить кнопку для работы с заданием на смену.
-     
+
 -   Открыть справочник "Учетные точки". Среди списка найти нужную,
     открыть:
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom.png)
      
 -   В таблице кнопок нажать "Создать":
-    ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_5.png)
-     
+
+
+![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_5.png)
+
+
 -   Указать наименование и выбрать обработку "Работа с заданиями" :
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_6.png)
-     
+
+
 -   Указать в создаваемых документах "Переработка" и что при её создании
     нет списания материалов:
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_7.png)
-     
+
+
 -   Указать видимость кнопки выпуска и что не ведется учет по таре:
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_8.png)
-     
+
+
 -   Указать участок варки:
-    ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_9.png)
-     
+
+
+![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_9.png)
+
+
 -   Ограничить склады для выпуска:
     ![](AccountPoints.assets/drex_uchetnye_tochki_3_custom_10.png)
-     
+
+
 -   Нажать "Записать и закрыть".
 
  

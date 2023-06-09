@@ -9,9 +9,11 @@
 
 -   Открыть нужного поставщика и перейти во вкладку "Сорта поставщиков":
 
-![](ustanovka_sortov_po_postavshchikam_na_period.assets/1.png) 
+![](ustanovka_sortov_po_postavshchikam_na_period.assets/1.png)
+
 -   Указать поставщика и сорт для него:
 
-![](ustanovka_sortov_po_postavshchikam_na_period.assets/2.png)  
+![](ustanovka_sortov_po_postavshchikam_na_period.assets/2.png)
+
 -   Нажать "Записать и закрыть".
 

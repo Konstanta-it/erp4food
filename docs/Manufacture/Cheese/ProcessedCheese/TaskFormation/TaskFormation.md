@@ -22,7 +22,7 @@
     плавку сыра:  
     ![](TaskFormation.assets/drex_formirovanie_zadanie_na_smenu_custom_4.png)
      
--   На вкладке "Выпуск" нажать кнопку "Задание на смену":  
+-   На вкладке "Задания" нажать кнопку "Создать задание":  
     ![](TaskFormation.assets/drex_formirovanie_zadanie_na_smenu_custom_5.png)
      
 -   Если задание на текущую смену уже было создано, тогда оно и
