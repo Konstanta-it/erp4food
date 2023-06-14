@@ -22,7 +22,7 @@
 
 Нажимаем кнопку "Сохранить".
 
-[1]: RegulatoryStocksBasicProducts.assets\1.png
-[2]: RegulatoryStocksBasicProducts.assets\2.png
-[3]: RegulatoryStocksBasicProducts.assets\3.png
-[4]: RegulatoryStocksBasicProducts.assets\4.png
+[1]: RegulatoryStocksBasicProducts.assets/1.png
+[2]: RegulatoryStocksBasicProducts.assets/2.png
+[3]: RegulatoryStocksBasicProducts.assets/3.png
+[4]: RegulatoryStocksBasicProducts.assets/4.png

@@ -16,5 +16,5 @@
 - *Горизонт планирования дней до* - вводим номер дня, до которого будет применяться правило отгрузок;
 - *Правило расчета отгрузок* - указываем [правило расчета отгрузок](../Forecasting/RulesCalculatingShipments.md).
 
-[1]: ApplicationRulesCalculatingShipments.assets\1.png
-[2]: ApplicationRulesCalculatingShipments.assets\2.png
+[1]: ApplicationRulesCalculatingShipments.assets/1.png
+[2]: ApplicationRulesCalculatingShipments.assets/2.png

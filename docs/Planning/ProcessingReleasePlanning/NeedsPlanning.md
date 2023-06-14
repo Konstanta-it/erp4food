@@ -71,15 +71,15 @@
 
 Данное действие требуется повторять в том случае, если нужно зафиксировать изменения в плане.
 
-[1]: NeedsPlanning.assets\1.png
-[2]: NeedsPlanning.assets\2.png
-[3]: NeedsPlanning.assets\3.png
-[4]: NeedsPlanning.assets\4.png
-[5]: NeedsPlanning.assets\5.png
-[6]: NeedsPlanning.assets\6.png
-[7]: NeedsPlanning.assets\7.png
-[8]: NeedsPlanning.assets\8.png
-[9]: NeedsPlanning.assets\9.png
-[10]: NeedsPlanning.assets\10.png
-[11]: NeedsPlanning.assets\11.png
-[12]: NeedsPlanning.assets\12.png
+[1]: NeedsPlanning.assets/1.png
+[2]: NeedsPlanning.assets/2.png
+[3]: NeedsPlanning.assets/3.png
+[4]: NeedsPlanning.assets/4.png
+[5]: NeedsPlanning.assets/5.png
+[6]: NeedsPlanning.assets/6.png
+[7]: NeedsPlanning.assets/7.png
+[8]: NeedsPlanning.assets/8.png
+[9]: NeedsPlanning.assets/9.png
+[10]: NeedsPlanning.assets/10.png
+[11]: NeedsPlanning.assets/11.png
+[12]: NeedsPlanning.assets/12.png

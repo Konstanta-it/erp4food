@@ -14,5 +14,5 @@
 - *Базовый продукт* - позиция базового продукта, для которой вводим периодичность;
 - *Периодичность запуска, дней* - частота запуска базового продукта.
 
-[1]: IntervalsLaunchBatchesOfBaseProducts.assets\1.png
-[2]: IntervalsLaunchBatchesOfBaseProducts.assets\2.png
+[1]: IntervalsLaunchBatchesOfBaseProducts.assets/1.png
+[2]: IntervalsLaunchBatchesOfBaseProducts.assets/2.png

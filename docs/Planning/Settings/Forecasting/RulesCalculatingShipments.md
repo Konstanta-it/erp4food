@@ -21,6 +21,6 @@
 
 Признак **"Учитывать предварительный заказ"** позволяет при расчете плановых отгрузок учесть созданные в системе предварительные заказы.
 
-[1]: RulesCalculatingShipments.assets\1.png
-[2]: RulesCalculatingShipments.assets\2.png
-[3]: RulesCalculatingShipments.assets\3.png
+[1]: RulesCalculatingShipments.assets/1.png
+[2]: RulesCalculatingShipments.assets/2.png
+[3]: RulesCalculatingShipments.assets/3.png
