@@ -24,5 +24,5 @@
 
 Затем настраиваются отборы, по которым будет происходить планирование. В системе есть возможность задать товарные категории, производителей, исключаемые номенклатуры и точки доставки. При указании определенных вариантов только они будут учитываться при планировании.
 
-[1]: SetUpPlanningReleaseRework.assets\1.png
-[2]: SetUpPlanningReleaseRework.assets\2.png
+[1]: SetUpPlanningReleaseRework.assets/1.png
+[2]: SetUpPlanningReleaseRework.assets/2.png

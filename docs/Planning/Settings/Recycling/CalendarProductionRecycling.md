@@ -25,7 +25,7 @@
 
 [![3][3]][3]
 
-[1]: CalendarProductionRecycling.assets\1.png
-[2]: CalendarProductionRecycling.assets\2.png
-[3]: CalendarProductionRecycling.assets\3.png
-[4]: CalendarProductionRecycling.assets\4.png
+[1]: CalendarProductionRecycling.assets/1.png
+[2]: CalendarProductionRecycling.assets/2.png
+[3]: CalendarProductionRecycling.assets/3.png
+[4]: CalendarProductionRecycling.assets/4.png

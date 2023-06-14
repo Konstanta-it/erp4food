@@ -9,7 +9,7 @@
 - Открыть вкладку "Настройки" и указать участок, на котором нужно зафиксировать переупаковку:  
 - Указать склад, на котором находится партия для указания переупаковки:  
 
-![](AccountingRepackingPackages.assets\Pictures_02.png)
+![](AccountingRepackingPackages.assets/Pictures_02.png)
 
 
 - В таблице отобразятся все варки сыра. Выбрать ту, по которой нужно учесть переупаковку и нажать "Указать переупаковку":  
@@ -17,7 +17,7 @@
 - Указать участок, на котором была переупаковка, если он еще не указан:  
 - Указать количество использованных пакетов и подтвердить:
 
-![](AccountingRepackingPackages.assets\Pictures_03.png)
+![](AccountingRepackingPackages.assets/Pictures_03.png)
 
 
-![](AccountingRepackingPackages.assets\Pictures_04.png)
+![](AccountingRepackingPackages.assets/Pictures_04.png)

@@ -19,7 +19,7 @@
 
 [![4][4]][4]
 
-[1]: WeightDaysBalance.assets\1.png
-[2]: WeightDaysBalance.assets\2.png
-[3]: WeightDaysBalance.assets\3.png
-[4]: WeightDaysBalance.assets\4.png
+[1]: WeightDaysBalance.assets/1.png
+[2]: WeightDaysBalance.assets/2.png
+[3]: WeightDaysBalance.assets/3.png
+[4]: WeightDaysBalance.assets/4.png

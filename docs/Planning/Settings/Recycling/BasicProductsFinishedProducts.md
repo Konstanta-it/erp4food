@@ -13,5 +13,5 @@
 - *Номенклатура* - позиция готовой продукции, для которой задается базовый продукт;
 - *Базовый продукт* - номенклатура базового продукта, которому соответствует готовая продукция.
 
-[1]: BasicProductsFinishedProducts.assets\1.png
-[2]: BasicProductsFinishedProducts.assets\2.png
+[1]: BasicProductsFinishedProducts.assets/1.png
+[2]: BasicProductsFinishedProducts.assets/2.png
