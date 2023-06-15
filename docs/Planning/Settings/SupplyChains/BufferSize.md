@@ -18,5 +18,5 @@
 - *Рек. запас* - рекомендуемое количество поддерживаемого запаса;
 - *Макс. запас* - максимальное количество поддерживаемого запаса.
 
-[1]: BufferSize.assets\1.png
-[2]: BufferSize.assets\2.png
+[1]: BufferSize.assets/1.png
+[2]: BufferSize.assets/2.png

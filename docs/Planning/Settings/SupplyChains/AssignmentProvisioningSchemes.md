@@ -12,5 +12,5 @@
 
 [![2][2]][2]
 
-[1]: AssignmentProvisioningSchemes.assets\1.png
-[2]: AssignmentProvisioningSchemes.assets\2.png
+[1]: AssignmentProvisioningSchemes.assets/1.png
+[2]: AssignmentProvisioningSchemes.assets/2.png
