@@ -51,9 +51,9 @@
 
 При нажатии на кнопку "Записать и закрыть" в системе формируются отдельные назначения на каждую указанную номенклатуру.
 
-[1]: AssignmentSupportSchemes.assets\1.png
-[2]: AssignmentSupportSchemes.assets\2.png
-[3]: AssignmentSupportSchemes.assets\3.png
-[4]: AssignmentSupportSchemes.assets\4.png
-[5]: AssignmentSupportSchemes.assets\5.png
-[6]: AssignmentSupportSchemes.assets\6.png
+[1]: AssignmentSupportSchemes.assets/1.png
+[2]: AssignmentSupportSchemes.assets/2.png
+[3]: AssignmentSupportSchemes.assets/3.png
+[4]: AssignmentSupportSchemes.assets/4.png
+[5]: AssignmentSupportSchemes.assets/5.png
+[6]: AssignmentSupportSchemes.assets/6.png

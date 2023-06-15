@@ -19,5 +19,5 @@
 - *Настройка ФЗП* - настройка с товарными категориями для формировании заявки на производство;
 - *Описание* - подробное определение схемы обеспечения.
 
-[1]: SupportSchemes.assets\1.png
-[2]: SupportSchemes.assets\2.png
+[1]: SupportSchemes.assets/1.png
+[2]: SupportSchemes.assets/2.png
