@@ -10,5 +10,5 @@ arrange:
     - OtherExpenses.md
     - CostAllocation.md
     - InventoryWriteOffAdjustment.md
-    - ShiftClosing
+    - MonthClosing
     - Reports
