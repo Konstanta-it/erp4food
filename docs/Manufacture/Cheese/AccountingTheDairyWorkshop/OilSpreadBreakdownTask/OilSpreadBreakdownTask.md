@@ -7,8 +7,6 @@
 
  
 
- 
-
 -   Открыть документы "Производственные задания" и перейти к созданию
     нового:  
     ![](OilSpreadBreakdownTask.assets/drex_zadanie_na_sbojku_masla_spreda_custom.png)
