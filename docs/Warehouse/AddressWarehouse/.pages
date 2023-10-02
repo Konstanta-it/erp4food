@@ -2,7 +2,7 @@ title: Адресный склад
 collapse: false
 arrange:
     - AdressWarehouse.md
-    - Paletirovanie.md
+    - Paletirovanie
     - Priemka
     - Peremeshenie
     - VnutriskladskieOper
