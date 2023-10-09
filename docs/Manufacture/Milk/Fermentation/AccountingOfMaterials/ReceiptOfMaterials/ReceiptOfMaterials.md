@@ -2,30 +2,21 @@
 
 
 Поступления материалов с другого склада фиксируются документом
-"Распоряжение на перемещение".
+**"Распоряжение на перемещение"**.
 
-
--   Открыть документы "Распоряжения на перемещение" и перейти к созданию
-    нового:      
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom.png)
--   Указать, с какого склада поступили материалы:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_2.png)
--   Указать, на какой склад поступили материалы:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_3.png)
--   Отметить, что материалы уже поступили:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_4.png)
+-   Открыть документы **"Распоряжения на перемещение"** и перейти к созданию нового;
+-   Указать, с какого склада поступили материалы;
+-   Указать, на какой склад поступили материалы;
+-   Отметить, что материалы уже поступили (статус документа - *"Выполнено"*);
 -   Если учет поступлений идет неоперативно (поступление было предыдущим
-    днем, неделей и т.п.), то указать фактическую дату поступления:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_5.png)
--   Перейти на вкладку "Факт" и нажать "Добавить":  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_6.png)
--   Указать, какой материал поступил:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_7.png)
--   Указать его партию или создать новую, если в списке отсутствует
-    поступившая:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_8.png)
--   Указать количество поступившего материала:  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_9.png)
--   Повторить п. 6-9 для остальных материалов и нажать "Провести и
-    закрыть":  
-![](ReceiptOfMaterials.assets/drex_peremeshchenie_s_drugogo_sklada_1_custom_10.png)
+    днем, неделей и т.п.), то указать фактическую дату поступления;
+
+![](ReceiptOfMaterials.assets/1.gif)
+
+-   Перейти на вкладку *"Факт"* и нажать **"Добавить"**;
+-   Указать, какой материал поступил;
+-   Указать его партию или создать новую, если в списке отсутствует поступившая;
+-   Указать количество поступившего материала;
+-   Повторить для остальных материалов и нажать **"Провести и закрыть"**:
+
+![](ReceiptOfMaterials.assets/2.gif)
