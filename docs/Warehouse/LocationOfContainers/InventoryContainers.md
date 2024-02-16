@@ -51,11 +51,11 @@
 
 **"Списание товаров"** - в случае, когда разница имеет знак минус (т.е. на складе нет данного товара, а по документам он имеется)
 
-[![8][8]][8]
+[![9][9]][9]
 
 **"Оприходование товаров"** - в случае, когда разница со знаком плюс (т.е. товар на складе имеется, а в документах это не отражено).
 
-[![9][9]][9]
+[![10][10]][10]
 
 [1]: InventoryContainers.assets/1.png
 [2]: InventoryContainers.assets/2.png
@@ -64,5 +64,5 @@
 [5]: InventoryContainers.assets/5.png
 [6]: InventoryContainers.assets/6.png
 [7]: InventoryContainers.assets/7.png
-[8]: InventoryContainers.assets/8.png
 [9]: InventoryContainers.assets/9.png
+[10]: InventoryContainers.assets/10.png
