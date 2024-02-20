@@ -1,6 +1,7 @@
 title: Производство
 collapse: false
 arrange:
+    - CommonInformation
     - Cheese
     - Milk
     - Meat
