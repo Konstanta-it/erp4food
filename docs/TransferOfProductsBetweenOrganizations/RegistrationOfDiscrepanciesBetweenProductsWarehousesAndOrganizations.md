@@ -88,6 +88,6 @@
 [10]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/10.png
 [11]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/11.png
 [12]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/12.png
-[13]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/13.png
+[13]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/16.png
 [14]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/14.png
 [15]: RegistrationOfDiscrepanciesBetweenProductsWarehousesAndOrganizations.assets/15.png
