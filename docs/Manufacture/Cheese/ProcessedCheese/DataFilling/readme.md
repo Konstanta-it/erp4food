@@ -19,7 +19,7 @@
     маркировки (куда номенклатура-материал заранее
     перемещается/выпускается) необходимо отключить учет по доп.единицам
     измерения (см. "[Рабочие центры и
-    склады](../../CommonInformation/Handbooks/WorkCentresAndWarehouses/WorkCentresAndWarehouses.md)").
+    склады](../../../CommonInformation/Handbooks/WorkCentresAndWarehouses/WorkCentresAndWarehouses.md)").
 -   Саму настройку учетной точки можно посмотреть в разделе общей НСИ
-    "[ТСД](../../CommonInformation/Handbooks/ButtonOfAccountPoint/DataCollectionTerminal/DataCollectionTerminal.md)".
+    "[ТСД](../../../CommonInformation/Handbooks/ButtonOfAccountPoint/DataCollectionTerminal/DataCollectionTerminal.md)".
 

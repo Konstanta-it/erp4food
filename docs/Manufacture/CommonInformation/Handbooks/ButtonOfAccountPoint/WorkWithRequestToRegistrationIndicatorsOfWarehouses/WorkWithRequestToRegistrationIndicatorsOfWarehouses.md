@@ -2,11 +2,10 @@
 ========================================================
 
 Работа с документом "Заявка на регистрацию показателей складов" через
-киоски. Пример - [учет показателей помещения посолки](../../../../SemiHardCheese/SaltingAndGoToMaturation/ParametresInSolicitor/AccountingFactValuesInKiosk/AccountingFactValuesInKiosk.md).
+киоски. Пример - [учет показателей помещения посолки](../../../../Cheese/SemiHardCheese/SaltingAndGoToMaturation/ParametresInSolicitor/AccountingFactValuesInKiosk/AccountingFactValuesInKiosk.md).
 
  
 
--   Вид показателя склада - заявки на какой вид показателей отображать в
-    АРМе;
+-   Вид показателя склада - заявки на какой вид показателей отображать в АРМе;
 -   Склады для выбора - по каким складам отображать заявки.
 

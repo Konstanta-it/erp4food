@@ -17,7 +17,7 @@
     задание на текущую смену. Выбрать первую варку и нажать
     "Ингредиенты":
     ![](AccountingSensorKiosk.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_4.png)
--   По умолчанию таблица заполняется ингредиентами по основной спецификации выбранного сыра. При этом возможны два сценария расчета норм ингредиентов (способ [настраивается в соответствующей кнопке учетной точки](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)).
+-   По умолчанию таблица заполняется ингредиентами по основной спецификации выбранного сыра. При этом возможны два сценария расчета норм ингредиентов (способ [настраивается в соответствующей кнопке учетной точки](../../../../../../Manufacture/CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)).
 
 
 
