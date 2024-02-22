@@ -2,7 +2,7 @@
 ===========================
 
 Работа с документом "Производственное задание" через киоски. Пример -
-[работа с заданиями на перевзвешивание созревшего сыра](../../../../SemiHardCheese/MarkedProduction/AccountingProduction/CompletingWithScales/readme.md).
+[работа с заданиями на перевзвешивание созревшего сыра](../../../../Cheese/SemiHardCheese/MarkedProduction/AccountingProduction/CompletingWithScales/readme.md).
 
  
 

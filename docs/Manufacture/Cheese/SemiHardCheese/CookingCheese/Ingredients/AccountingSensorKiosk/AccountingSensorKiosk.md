@@ -40,7 +40,7 @@
 -   Указать количество ингредиента и нажать "Подтвердить":
     ![](AccountingSensorKiosk.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_10.png)
 
-- Если указание количества основного материала происходит в литрах (если это [настроено в соответствующей кнопке учетной точки](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)), то при подтверждении будет сделан пересчет в кг (если лаборантами был внесен показатель плотности):
+- Если указание количества основного материала происходит в литрах (если это [настроено в соответствующей кнопке учетной точки](../../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)), то при подтверждении будет сделан пересчет в кг (если лаборантами был внесен показатель плотности):
 
   ![image-20200803160248232](AccountingSensorKiosk.assets/image-20200803160248232.png)
 
