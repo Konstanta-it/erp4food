@@ -17,7 +17,7 @@
     задание на текущую смену. Выбрать первую варку и нажать
     "Ингредиенты":
     ![](AccountingSensorKiosk.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_4.png)
--   По умолчанию таблица заполняется ингредиентами по основной спецификации выбранного сыра. При этом возможны два сценария расчета норм ингредиентов (способ [настраивается в соответствующей кнопке учетной точки](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)).
+-   По умолчанию таблица заполняется ингредиентами по основной спецификации выбранного сыра. При этом возможны два сценария расчета норм ингредиентов (способ [настраивается в соответствующей кнопке учетной точки](../../../../../../Manufacture/CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)).
 
 
 
@@ -40,7 +40,7 @@
 -   Указать количество ингредиента и нажать "Подтвердить":
     ![](AccountingSensorKiosk.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_10.png)
 
-- Если указание количества основного материала происходит в литрах (если это [настроено в соответствующей кнопке учетной точки](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)), то при подтверждении будет сделан пересчет в кг (если лаборантами был внесен показатель плотности):
+- Если указание количества основного материала происходит в литрах (если это [настроено в соответствующей кнопке учетной точки](../../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/WorkWithTasks/WorkWithTasks.md)), то при подтверждении будет сделан пересчет в кг (если лаборантами был внесен показатель плотности):
 
   ![image-20200803160248232](AccountingSensorKiosk.assets/image-20200803160248232.png)
 

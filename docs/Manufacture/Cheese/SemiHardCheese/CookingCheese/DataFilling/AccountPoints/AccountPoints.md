@@ -83,4 +83,4 @@
  
 
 Более подробная информация о параметрах кнопок учетных точек описана в
-разделе ["Кнопки учетных точек"](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/readme.md).
+разделе ["Кнопки учетных точек"](../../../../../../Manufacture/CommonInformation/Handbooks/ButtonOfAccountPoint/readme.md).
