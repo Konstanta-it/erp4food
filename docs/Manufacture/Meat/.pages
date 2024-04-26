@@ -1,7 +1,6 @@
 title: Мясное производство
 collapse: false
 arrange:
-    - CommonInformation
     - AcceptOfSpicesMeatVegetables
     - Preparation
     - Livestock
