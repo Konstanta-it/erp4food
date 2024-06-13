@@ -5,6 +5,7 @@ arrange:
     - Pricing
     - FormationOfOrders
     - FormationOfShipments
+    - Reservation
     - FormationOfAFeedback
     - CustomerInformation.md
     - Reports
