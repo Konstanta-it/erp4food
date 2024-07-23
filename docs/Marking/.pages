@@ -1,6 +1,7 @@
 title: Маркировка продукции
 collapse: false
 arrange:
+    - FormirovanieZayvkiNaMarkirovky.md
     - FormorovanieZadaniyNaProizvodstvo.md
     - MarkirovkaNaTCD
     - StacMark.md

@@ -15,6 +15,7 @@ arrange:
     - ZoneOfDelivery.md
     - Warehouse.md
     - WarehouseTopologyGeneration.md
+    - PlacementPriorities.md
     - WorkCenter.md
     - TCD
     - Container.md
