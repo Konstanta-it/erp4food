@@ -1,6 +1,7 @@
 title: Простой склад
 collapse: false
 arrange:
+    - KomplektaciaVKoroba.md
     - Paletirovanie.md
     - Priemka
     - Peremeshenie
