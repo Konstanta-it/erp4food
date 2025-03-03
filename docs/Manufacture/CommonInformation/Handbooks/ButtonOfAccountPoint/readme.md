@@ -21,7 +21,7 @@
 - [Взвешивание тары](ContainerWeighing/ContainerWeighing.md)
 - [Комплектация через весы](PackagingWithScales/PackagingWithScales.md)
 - [Оперативный учет на рабочем центре](OperationalAccountingOnWorkCenter/OperationalAccountingOnWorkCenter.md)
-- [Перемещение с делением](DeleniePalet/DeleniePalet.md)
+- [Универсальное перемещение](UniversalPeremeshenie/UniversalPeremeshenie.md)
 - [Работа с заданиями](WorkWithTasks/WorkWithTasks.md)
 - [Работа с заявками на лабораторные анализы](WorkWithLabAnalyzes/WorkWithLabAnalyzes.md)
 - [Работа с заявками на регистрацию показателей складов](WorkWithRequestToRegistrationIndicatorsOfWarehouses/WorkWithRequestToRegistrationIndicatorsOfWarehouses.md)
