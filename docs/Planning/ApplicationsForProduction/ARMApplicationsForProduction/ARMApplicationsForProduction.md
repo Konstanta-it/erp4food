@@ -8,7 +8,7 @@
 
 ![1]
 
-Для заполнения настроек АРМ используются [настройки обеспечения заявок на производство](../SettingsApplicationsForProduction/SettingsApplicationsForProduction.md)
+Для заполнения настроек АРМа используются [настройки обеспечения заявок на производство](../SettingsApplicationsForProduction/SettingsApplicationsForProduction.md)
 
 ![2]
 
