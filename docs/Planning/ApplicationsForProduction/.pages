@@ -2,4 +2,4 @@ title: Обеспечение заявок на производство
 collapse: false
 arrange:
     - SettingsApplicationsForProduction.md
-    - ARMApplicationsForProduction.md  
+    - ARMApplicationsForProduction.md
