@@ -8,3 +8,4 @@ arrange:
     - ProductionBatch
     - TransferMilkToSeparation
     - RegisterResidualOfMilk
+    - ReceivingWithoutPlan
