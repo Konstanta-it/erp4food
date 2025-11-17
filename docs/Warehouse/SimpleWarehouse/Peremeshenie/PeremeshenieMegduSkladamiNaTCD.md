@@ -57,3 +57,7 @@
 ![9](PeremeshenieMegduSkladamiNaTCD.assets/9.png)
 
 ![10](PeremeshenieMegduSkladamiNaTCD.assets/10.png)
+
+После успешно выполненного перемещения можно распечатать **Накладную внутреннего перемещения**. Для этого необходимо нажать кнопку "Печать" на форме списка или внутри документа Распоряжение на перемещение.
+
+![11](PeremeshenieMegduSkladamiNaTCD.assets/11.png)
