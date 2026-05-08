@@ -4,4 +4,4 @@ arrange:
     - Settings
     - SCP
     - ProcessingReleasePlanning
-    - ApplicationsForProduction
+    - ApplicationsForProduction.md
