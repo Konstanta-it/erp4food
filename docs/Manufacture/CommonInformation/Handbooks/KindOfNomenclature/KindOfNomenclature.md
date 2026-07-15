@@ -60,3 +60,5 @@
 Видна, если включен учет по сериям.
 
 В шаблоне задается вид серий номенклатуры.
+
+![](KindOfNomenclature.assets/drex_vidy_nomenklatury_custom_3.png)
