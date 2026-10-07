@@ -2,8 +2,9 @@ title: Цены и скидки
 collapse: false
 arrange:
     - PricesAndDiscounts.md
-    - TypesOfPrices.md
-    - SettingPrices.md
-    - AgreementsWithContractors.md
-    - Discount.md
+    - TypesOfPrices  
+    - ARMSettingPrices  
+    - DocSettingPrices  
+    - AgreementsWithContractors.md  
+    - Discount  
     - Reports.md

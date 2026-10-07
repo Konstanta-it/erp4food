@@ -1,0 +1,6 @@
+title: Внутреннее потребление
+collapse: false
+arrange:
+    - DegustationOrders
+    - Target
+    - Reports

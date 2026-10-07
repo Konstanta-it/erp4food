@@ -5,6 +5,9 @@ arrange:
     - Pricing
     - FormationOfOrders
     - FormationOfShipments
+    - Commission
+    - Degustation
+    - Retail
     - Reservation
     - FormationOfAFeedback
     - CustomerInformation.md
