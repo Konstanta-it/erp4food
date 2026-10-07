@@ -12,11 +12,11 @@
 - [Оприходования товаров у комиссионера](../Posting/Posting.md);  
 - [Отчеты комиссионеров о продажах](../SalesReport/SalesReport.md);  
 - [Отчеты комиссионеров о списании](../WriteOffReport/WriteOffReport.md);  
-- [Передачи товаров на комиссию](../CommissionProcces/CommissionProcess.md).
+- [Передачи товаров на комиссию](../CommissionProcess/CommissionProcess.md).
 
 [![1]][1]
 
-При включении становится доступно [соглашение](../../../MasterData/Counterparties/AgreementsWithCounterparties/AgreementsWithContractors.md) с комиссионером.
+При включении становится доступно соглашение с комиссионером.
 
 [1]: 1.png
 [2]: 2.png 
