@@ -2,4 +2,5 @@ title: Формирование сопроводительных докумен�
 collapse: false
 arrange:
     - FormationOfTheImplementationsOfProducts.md
+    - PrintSettings.md  
     - AdjustingProductImplementations
